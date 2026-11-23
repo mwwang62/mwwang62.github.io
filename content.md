@@ -46,6 +46,19 @@ My interests lie at the intersection of experimental physics and computational m
   </div>
 </div>
 
+## Scholarship
+
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">Spring. 2024 — present</div>
+    <div class="bio-content">
+      <h3>Kwanjeong Educational Foundation Scholarship (19th Cohort) | Kwanjeong Educational Foundation, South Korea</h3>
+      <p>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</p>
+      <p>Received merit-based financial support totaling <strong>KRW 16,000,000 (~USD 12,000)</strong>strong> over four semesters.</p>
+    </div>
+  </div>
+</div>
+
 ## Research Experience
 
 <div class="bio-timeline">
@@ -120,19 +133,6 @@ This section is reserved for research, conference, laboratory, and profile photo
 To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
 
 `![Description of photo](assets/photos/your-photo.jpg)`
-
-## Scholarship
-
-<div class="bio-timeline">
-  <div class="bio-timeline-item">
-    <div class="bio-date">Spring. 2024 — present</div>
-    <div class="bio-content">
-      <h3>Kwanjeong Educational Foundation Scholarship (19th Cohort) | Kwanjeong Educational Foundation, South Korea</h3>
-      <p>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</p>
-      <p>Received merit-based financial support totaling KRW 16,000,000 (~USD 12,000) over four semesters.</p>
-    </div>
-  </div>
-</div>
 
 ## Leadership
 
