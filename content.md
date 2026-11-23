@@ -70,43 +70,52 @@ My interests lie at the intersection of experimental physics and computational m
 
 ## Education
 
-### 2022 — PRESENT | Korea University
-
-**Undergraduate Studies in Physics**  
-Second major in **Electrical and Electronic Engineering**, entered in September 2023.
-
-Currently on a leave of absence from undergraduate studies. Degree not yet completed.
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">September 2022 — Present</div>
+    <div class="bio-content">
+      <h3>Korea University</h3>
+      <p><strong>Undergraduate Studies in Physics</strong></p>
+      <p>Second major in <strong>Electrical and Electronic Engineering</strong>, entered in September 2023. Currently on a leave of absence from undergraduate studies. Degree not yet completed.</p>
+    </div>
+  </div>
+</div>
 
 ## Research Experience
 
-### December 2023 — PRESENT | Stellar Nucleosynthesis Reaction Research Group, Korea University
-
-**Research Group Member**  
-Research supervisor: Professor Ahn Jung-geun
-
-- Conducted electron-transmission simulations through a gating GEM using **Garfield++** on Ubuntu Linux.
-- Developed Python code to calculate electron transmission rates and associated errors.
-- Generated and analyzed *Transmission Rate vs. ΔV across GEM* plots.
-- Presented a research poster at the **2024 Korean Physical Society (KPS) meeting**: “Garfield simulation on a gating GEM operation for COREA” (P1-nu.013, October 23, 2024).
-
-### June 2023 — August 2023 | High Energy Experimental Laboratory, Korea University
-
-**Research Assistant — Data Processing and Calibration**  
-Research supervisor: Professor Yoo Jae-hyeok  
-(*Millicharged Particle Search Laboratory*)
-
-- Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format.
-- Developed Python code for time calibration to correct timing differences across 16 parallel data channels.
-
-### June 2023 — November 2024 | Early Universe Research Laboratory, Korea University
-
-**Research Group Affiliation**  
-Research supervisor: Professor Won Eun-il.
-
-### March 2023 — July 2023 | Detector Fabrication Laboratory, Korea University
-
-**Research Group Affiliation**  
-Research supervisor: Professor Lee Kyung-se, Korea Detector Laboratory.
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">December 2023 — Present</div>
+    <div class="bio-content">
+      <h3>Stellar Nucleosynthesis Reaction Research Group, Korea University</h3>
+      <p><strong>Research Group Member</strong><br>Research supervisor: Professor Ahn Jung-geun</p>
+      <p>Conducted electron-transmission simulations through a gating GEM using <strong>Garfield++</strong> on Ubuntu Linux. Developed Python code to calculate electron transmission rates and associated errors, and generated and analyzed <em>Transmission Rate vs. ΔV across GEM</em> plots.</p>
+      <p>Presented a research poster at the <strong>2024 Korean Physical Society (KPS) meeting</strong>: “Garfield simulation on a gating GEM operation for COREA” (P1-nu.013, October 23, 2024).</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">June 2023 — August 2023</div>
+    <div class="bio-content">
+      <h3>High Energy Experimental Laboratory, Korea University</h3>
+      <p><strong>Research Assistant — Data Processing and Calibration</strong><br>Research supervisor: Professor Yoo Jae-hyeok<br><em>Millicharged Particle Search Laboratory</em></p>
+      <p>Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format. Also developed Python code for time calibration to correct timing differences across 16 parallel data channels.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">June 2023 — November 2024</div>
+    <div class="bio-content">
+      <h3>Early Universe Research Laboratory, Korea University</h3>
+      <p><strong>Research Group Affiliation</strong><br>Research supervisor: Professor Won Eun-il.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">March 2023 — July 2023</div>
+    <div class="bio-content">
+      <h3>Detector Fabrication Laboratory, Korea University</h3>
+      <p><strong>Research Group Affiliation</strong><br>Research supervisor: Professor Lee Kyung-se, Korea Detector Laboratory.</p>
+    </div>
+  </div>
+</div>
 
 ## Projects
 
