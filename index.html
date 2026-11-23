@@ -45,8 +45,14 @@ function sectionMarkup(title,items){
    return '<section id="'+id+'"><div class="section-head"><div><div class="kicker">02 / JOURNEY</div><h2>Experience & Education</h2></div><p>Milestones along the way.</p></div><div class="timeline">'+entries+'</div></section>';
  }
  if(key==='projects'){
-   let entries='';for(const n of items){if(n.tagName==='H3')entries+='<article class="project"><h3>'+n.innerHTML+'</h3>';else if(n.tagName==='P'){let html=n.innerHTML.replace(/<strong>Tech:<\/strong>/i,'<strong>Tech:</strong>');entries+='<p>'+html+'</p>'}else if(n.tagName==='UL'){const tags=[...n.querySelectorAll('li')].map(x=>x.textContent);entries+='<div class="tags">'+tags.map(t=>'<span class="tag">'+esc(t)+'</span>').join('')+'</div></article>'}else if(n.tagName==='P'&&n.textContent.includes('Tech:'))entries+='</article>'}
-   entries=entries.replace(/<\/article><article/g,'</article><article');
+   let entries='',opened=false;
+   for(const n of items){
+     if(n.tagName==='H3'){if(opened)entries+='</article>';entries+='<article class="project"><h3>'+n.innerHTML+'</h3>';opened=true}
+     else if(n.tagName==='P'&&/^Tech:/i.test(n.textContent.trim())){const raw=n.textContent.replace(/^Tech:\\s*/i,'');entries+='<div class="tags">'+raw.split(',').map(t=>'<span class="tag">'+esc(t.trim())+'</span>').join('')+'</div>'}
+     else if(n.tagName==='P'&&opened)entries+='<p>'+n.innerHTML+'</p>';
+     else if(n.tagName==='UL'&&opened){const tags=[...n.querySelectorAll('li')].map(x=>x.textContent);entries+='<div class="tags">'+tags.map(t=>'<span class="tag">'+esc(t)+'</span>').join('')+'</div>'}
+   }
+   if(opened)entries+='</article>';
    return '<section id="'+id+'"><div class="section-head"><div><div class="kicker">03 / SELECTED WORK</div><h2>Projects & Research</h2></div><p>Ideas, experiments, and things I have built.</p></div><div class="cards">'+entries+'</div></section>';
  }
  if(key==='contact'){
