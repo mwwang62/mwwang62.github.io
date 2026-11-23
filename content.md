@@ -1,73 +1,116 @@
 # Minwoo Wang
 
-복잡한 문제를 탐구하고, 아이디어를 실제로 작동하는 결과물로 만드는 일을 좋아합니다. 이곳에 제가 배우고 있는 것과 만들고 있는 것들을 기록합니다.
+**Physics Undergraduate · Scientific Computing · Detector Simulation**
 
-> Researcher · Developer · Lifelong Learner
+I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.
 
 ## About
 
-### My story
+### Research Interests
 
-저는 과학 계산, 시뮬레이션, 소프트웨어 엔지니어링이 만나는 지점에 관심이 있습니다. 기술의 원리를 깊이 이해하고, 배운 내용을 실용적인 문제에 적용하는 것을 즐깁니다.
+My interests lie at the intersection of experimental physics and computational methods, particularly:
 
-### Areas I explore
+- Detector physics and instrumentation
+- Particle transport and detector simulation
+- Scientific computing and data analysis
+- Python development and Linux-based research workflows
 
-관심 분야와 기술을 아래처럼 자유롭게 수정하세요.
+### Technical Skills
 
-- Scientific Computing
-- C++
-- Python
-- Simulation
-- Data Analysis
+- **Programming:** Python
+- **Simulation:** Garfield++, Geant4
+- **Scientific data:** ROOT, binary-data processing, data visualization
+- **Environment:** Linux, Ubuntu
 
-## Experience
+## Education
 
-### 2024 — PRESENT | Research Assistant · Example Research Lab
+### 2022 — PRESENT | Korea University
 
-계산 모델, 시뮬레이션 워크플로, 재현 가능한 데이터 분석을 연구하고 있습니다.
+**Undergraduate Studies in Physics**  
+Second major in **Electrical and Electronic Engineering**, entered in September 2023.
 
-### 2022 — 2024 | Graduate Studies · Example University
+Currently on a leave of absence from undergraduate studies. Degree not yet completed.
 
-계산 물리, 수치해석, 과학 프로그래밍을 공부했습니다.
+## Research Experience
 
-### 2018 — 2022 | Bachelor's Degree · Example University
+### December 2023 — PRESENT | Stellar Nucleosynthesis Reaction Research Group, Korea University
 
-물리학, 수학, 프로그래밍의 기초를 쌓았습니다.
+**Research Group Member**  
+Research supervisor: Professor Ahn Jung-geun
+
+- Conducted electron-transmission simulations through a gating GEM using **Garfield++** on Ubuntu Linux.
+- Developed Python code to calculate electron transmission rates and associated errors.
+- Generated and analyzed *Transmission Rate vs. ΔV across GEM* plots.
+- Presented a research poster at the **2024 Korean Physical Society (KPS) meeting**: “Garfield simulation on a gating GEM operation for COREA” (P1-nu.013, October 23, 2024).
+
+### June 2023 — August 2023 | High Energy Experimental Laboratory, Korea University
+
+**Research Assistant — Data Processing and Calibration**  
+Research supervisor: Professor Yoo Jae-hyeok  
+(*Millicharged Particle Search Laboratory*)
+
+- Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format.
+- Developed Python code for time calibration to correct timing differences across 16 parallel data channels.
+
+### June 2023 — November 2024 | Early Universe Research Laboratory, Korea University
+
+**Research Group Affiliation**  
+Research supervisor: Professor Won Eun-il.
+
+### March 2023 — July 2023 | Detector Fabrication Laboratory, Korea University
+
+**Research Group Affiliation**  
+Research supervisor: Professor Lee Kyung-se, Korea Detector Laboratory.
 
 ## Projects
 
-### ⚛️ Particle Simulation Toolkit
+### Garfield++ Simulation of Electron Transmission Through a Gating GEM
 
-입자 수송 및 시뮬레이션 워크플로를 위한 모듈형 도구를 구상한 예시 프로젝트입니다.
+Simulated electron transmission through a gating Gas Electron Multiplier (GEM) using Garfield++ in an Ubuntu Linux environment. Developed Python analysis code to calculate transmission rates and errors, and to visualize the relationship between transmission rate and the voltage difference across the GEM.
 
-**Tech:** C++, Geant4, Physics
+**Tools:** Garfield++, Python, Ubuntu Linux, Data Visualization
 
-### 📊 Scientific Data Explorer
+### C3+ Ion Beam Trajectory Optimization with Geant4
 
-수치 데이터의 정리, 시각화, 해석을 돕는 가벼운 분석 워크플로 예시입니다.
+Worked on a simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam using Geant4 in a Linux-based Ubuntu environment.
 
-**Tech:** Python, NumPy, Visualization
+**Tools:** Geant4, Linux, Ubuntu
 
-### 🧮 Numerical Methods Notes
+### Binary Data Processing and 16-Channel Time Calibration
 
-주요 계산 기법의 구현과 설명을 정리하는 노트 예시입니다.
+Built Python tools for experimental data processing: extracted header information from binary files, organized it into a tree structure, exported the result to ROOT files, and developed a time-calibration workflow to correct timing offsets across 16 parallel channels.
 
-**Tech:** Algorithms, C++, Learning
+**Tools:** Python, ROOT, Binary Data Processing, Time Calibration
 
-### 🛠️ Reproducible Research Setup
+## Presentations
 
-실험 기록, 설정 관리, 결과 공유를 위한 템플릿 예시입니다.
+### October 23, 2024 | Korean Physical Society Meeting
 
-**Tech:** Git, Linux, Automation
+**“Garfield simulation on a gating GEM operation for COREA”**  
+Poster presentation · P1-nu.013
+
+## Photos
+
+This section is reserved for research, conference, laboratory, and profile photos.
+
+To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
+
+`![Description of photo](assets/photos/your-photo.jpg)`
+
+## Files
+
+This section is reserved for documents and downloadable materials, such as a CV, research poster, publications, or project reports.
+
+To add a file later, upload it to the repository (for example, into an `assets/files/` folder) and add a link here:
+
+`[Download document](assets/files/your-document.pdf)`
 
 ## Contact
 
-협업 제안이나 질문이 있다면 편하게 연락해 주세요.
+Based in **South Korea**.
 
-**Email:** hello@example.com
-
-**Location:** South Korea
+Contact details and professional links will be added here.
 
 ---
 
-> **편집 안내:** 이 파일의 제목과 문단을 바꾸면 홈페이지 내용이 바뀝니다. 경력과 프로젝트는 예시 데이터이므로 실제 정보로 교체하세요.
+*This portfolio summarizes the academic and research experience documented in my career certificate. Personal identification details, including date of birth and residential address, are intentionally not published.*
