@@ -97,44 +97,27 @@ My interests lie at the intersection of experimental physics and computational m
   </div>
 </div>
 
-## Projects
+## Academic Experience
 
-### Garfield++ Simulation of Electron Transmission Through a Gating GEM
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">Sep. 2022 — Feb. 2023</div>
+    <div class="bio-content">
+      <h3>KU Sommelier (Official Wine club at Korea University)</h3>
+      <p><strong>President</strong></p>
+      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">Nov. 2022 — Oct. 2023</div>
+    <div class="bio-content">
+      <h3>Department of Physics Student Council</h3>
+      <p><strong>Vice President</strong></p>
+      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+    </div>
+  </div>
+</div>
 
-Simulated electron transmission through a gating Gas Electron Multiplier (GEM) using Garfield++ in an Ubuntu Linux environment. Developed Python analysis code to calculate transmission rates and errors, and to visualize the relationship between transmission rate and the voltage difference across the GEM.
-
-**Tools:** Garfield++, Python, Ubuntu Linux, Data Visualization
-
-### C3+ Ion Beam Trajectory Optimization with Geant4
-
-Worked on a simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam using Geant4 in a Linux-based Ubuntu environment.
-
-**Tools:** Geant4, Linux, Ubuntu
-
-### Binary Data Processing and 16-Channel Time Calibration
-
-Built Python tools for experimental data processing: extracted header information from binary files, organized it into a tree structure, exported the result to ROOT files, and developed a time-calibration workflow to correct timing offsets across 16 parallel channels.
-
-**Tools:** Python, ROOT, Binary Data Processing, Time Calibration
-
-## Publications
-
-No peer-reviewed publications have been listed yet.
-
-## Presentations
-
-### October 23, 2024 | Korean Physical Society Meeting
-
-**“Garfield simulation on a gating GEM operation for COREA”**  
-Poster presentation · P1-nu.013
-
-## Photos
-
-This section is reserved for research, conference, laboratory, and profile photos.
-
-To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
-
-`![Description of photo](assets/photos/your-photo.jpg)`
 
 ## Leadership
 
@@ -214,6 +197,48 @@ To add a photo later, upload the image to the repository (for example, into an `
     </div>
   </div>
 </div>
+
+
+
+
+## Projects
+
+### Garfield++ Simulation of Electron Transmission Through a Gating GEM
+
+Simulated electron transmission through a gating Gas Electron Multiplier (GEM) using Garfield++ in an Ubuntu Linux environment. Developed Python analysis code to calculate transmission rates and errors, and to visualize the relationship between transmission rate and the voltage difference across the GEM.
+
+**Tools:** Garfield++, Python, Ubuntu Linux, Data Visualization
+
+### C3+ Ion Beam Trajectory Optimization with Geant4
+
+Worked on a simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam using Geant4 in a Linux-based Ubuntu environment.
+
+**Tools:** Geant4, Linux, Ubuntu
+
+### Binary Data Processing and 16-Channel Time Calibration
+
+Built Python tools for experimental data processing: extracted header information from binary files, organized it into a tree structure, exported the result to ROOT files, and developed a time-calibration workflow to correct timing offsets across 16 parallel channels.
+
+**Tools:** Python, ROOT, Binary Data Processing, Time Calibration
+
+## Publications
+
+No peer-reviewed publications have been listed yet.
+
+## Presentations
+
+### October 23, 2024 | Korean Physical Society Meeting
+
+**“Garfield simulation on a gating GEM operation for COREA”**  
+Poster presentation · P1-nu.013
+
+## Photos
+
+This section is reserved for research, conference, laboratory, and profile photos.
+
+To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
+
+`![Description of photo](assets/photos/your-photo.jpg)`
 
 ## Files
 
