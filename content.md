@@ -4,7 +4,7 @@
 
 <div class="profile-summary">
   <h2>Minwoo Wang</h2>
-  <p>Undergraduate student at Korea University, Seoul.  
+  <p>Undergraduate student at Korea University, Seoul.<br>
      Major in Physics with a double major in Electrical and Electronic Engineering. </p>
 </div>
 
