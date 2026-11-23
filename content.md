@@ -33,50 +33,16 @@ My interests lie at the intersection of experimental physics and computational m
 - **Environment:** Linux, Ubuntu
 
 
-## Biography
-
-<div class="bio-timeline">
-  <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — YYYY</div>
-    <div class="bio-content">
-      <h3>First milestone or experience</h3>
-      <p>Write a short introduction to an important period, experience, or turning point in your life.</p>
-    </div>
-  </div>
-  <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — YYYY</div>
-    <div class="bio-content">
-      <h3>Second milestone or experience</h3>
-      <p>Describe an academic, personal, or extracurricular experience that helped shape your interests.</p>
-    </div>
-  </div>
-  <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — YYYY</div>
-    <div class="bio-content">
-      <h3>Third milestone or experience</h3>
-      <p>Highlight a research project, achievement, or skill you developed during this period.</p>
-    </div>
-  </div>
-  <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — Present</div>
-    <div class="bio-content">
-      <h3>Current focus and future direction</h3>
-      <p>Summarize what you are currently working on and what you hope to pursue next.</p>
-    </div>
-  </div>
-</div>
-
-
 
 ## Education
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
-    <div class="bio-date">September 2022 — Present</div>
+    <div class="bio-date">Mar.2022 — Present</div>
     <div class="bio-content">
-      <h3>Korea University</h3>
-      <p><strong>Undergraduate Studies in Physics</strong></p>
-      <p>Second major in <strong>Electrical and Electronic Engineering</strong>, entered in September 2023. Currently on a leave of absence from undergraduate studies. Degree not yet completed.</p>
+      <h3>Korea University, Seoul</h3>
+      <p>Undergraduate Studies in Physics</p>
+      <p>Double major in Electrical and Electronic Engineering</p>
     </div>
   </div>
 </div>
