@@ -8,11 +8,11 @@
   <title>Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <style>
     :root{--ink:#172033;--muted:#697386;--line:#e7eaf1;--paper:#fff;--bg:#f7f8fc;--blue:#4d65e8;--shadow:0 18px 55px rgba(27,39,75,.07)}
-    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans","Noto Sans KR",sans-serif;line-height:1.7}a{color:inherit;text-decoration:none}.wrap{width:min(1100px,calc(100% - 44px));margin:auto}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:"Inter","Noto Sans KR",sans-serif;line-height:1.7}a{color:inherit;text-decoration:none}.wrap{width:min(1100px,calc(100% - 44px));margin:auto}
     header{position:sticky;top:0;z-index:10;background:rgba(247,248,252,.88);backdrop-filter:blur(16px);border-bottom:1px solid rgba(231,234,241,.8)}.nav{height:72px;display:flex;align-items:center;justify-content:space-between}.brand{font-weight:800;letter-spacing:-.7px;font-size:18px}.brand span{color:var(--blue)}.links{display:flex;gap:27px;color:#596276;font-size:13px;font-weight:700}.links a:hover{color:var(--blue)}.menu{display:none;border:0;background:none;font-size:23px}
     .hero{padding:86px 0 70px;display:grid;grid-template-columns:1.35fr .65fr;gap:55px;align-items:center}.eyebrow{color:var(--blue);font-size:12px;font-weight:800;letter-spacing:1.5px;text-transform:uppercase}.hero h1{font-size:clamp(42px,6vw,66px);letter-spacing:-3px;line-height:1.13;margin:20px 0}.hero h1 em{font-style:normal;color:var(--blue)}.lead{font-size:17px;color:var(--muted);max-width:610px}.actions{display:flex;gap:12px;margin-top:30px;flex-wrap:wrap}.btn{padding:12px 19px;border-radius:10px;font-size:13px;font-weight:700;display:inline-flex;align-items:center;gap:8px}.primary{background:var(--blue);color:#fff;box-shadow:0 8px 18px #4d65e83a}.secondary{background:#fff;border:1px solid var(--line)}
     .profile{background:linear-gradient(145deg,#e8ebff,#f8f9ff);border:1px solid #e2e6ff;border-radius:26px;padding:28px;box-shadow:var(--shadow)}.avatar{width:92px;height:92px;border-radius:24px;background:linear-gradient(145deg,#6278f2,#9ba8ff);display:grid;place-items:center;color:white;font-size:31px;font-weight:800}.profile h3{font-size:20px;margin:18px 0 2px}.profile p{margin:0;color:var(--muted);font-size:13px}.profile .meta{margin-top:24px;padding-top:18px;border-top:1px solid #dfe3f5;display:grid;gap:10px;font-size:12px;color:#596276}
@@ -23,7 +23,7 @@
     @media(max-width:760px){.links{display:none;position:absolute;top:72px;left:0;right:0;background:#fff;padding:18px 24px;flex-direction:column;gap:13px;border-bottom:1px solid var(--line)}.links.open{display:flex}.menu{display:block}.hero{grid-template-columns:1fr;padding:58px 0 35px;gap:30px}.about-grid,.cards{grid-template-columns:1fr}.timeline-item{grid-template-columns:1fr;gap:4px}.section-head{display:block}.section-head p{margin-top:8px}.contact{align-items:flex-start;flex-direction:column}footer{flex-direction:column}}
 
     .profile-intro{display:grid;grid-template-columns:220px minmax(0,1fr);gap:34px;align-items:center;margin:18px 0 42px;padding:26px;border:1px solid var(--line);border-radius:24px;background:#fff;box-shadow:var(--shadow)}
-    .profile-intro .profile-photo{margin:0}.profile-intro .profile-photo img{display:block;width:100%;max-height:280px;aspect-ratio:4/5;object-fit:cover;margin:0;border-radius:18px}.profile-summary h2{margin:0 0 8px;font-size:1.55rem}.profile-summary p{margin:0 0 16px;color:var(--muted)}.profile-links{display:flex;flex-wrap:wrap;gap:9px}.profile-links a{display:inline-flex;align-items:center;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:.9rem;font-weight:600;color:var(--blue);background:#fff}.profile-links a:hover{background:#f1f3ff;border-color:#cbd2ff}
+    .profile-intro .profile-photo{margin:0}.profile-intro .profile-photo img{display:block;width:100%;max-height:280px;aspect-ratio:4/5;object-fit:cover;margin:0;border-radius:18px}.profile-summary h2{margin:0 0 8px;font-size:1.55rem}.profile-summary p{margin:0 0 16px;color:var(--muted)}.profile-links{display:flex;flex-wrap:wrap;gap:9px}.profile-links a{display:inline-flex;align-items:center;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:.9rem;font-weight:600;color:var(--blue);background:#fff}.profile-links a:hover{background:#f1f3ff;border-color:#cbd2ff}.profile-links .email-icon{display:inline-flex;align-items:center;margin-right:6px;color:currentColor}.profile-links .email-icon svg{display:block}
     @media(max-width:760px){.profile-intro{grid-template-columns:120px minmax(0,1fr);gap:18px;padding:16px;margin:12px 0 32px}.profile-intro .profile-photo img{max-height:170px}.profile-summary h2{font-size:1.2rem}.profile-summary p{font-size:.9rem}.profile-links{gap:7px}.profile-links a{font-size:.8rem;padding:6px 10px}}
     @media(max-width:420px){.profile-intro{grid-template-columns:1fr}.profile-intro .profile-photo img{width:150px}}
   </style>
@@ -62,7 +62,12 @@ async function loadContent(){
     nav.className='profile-links';
     nav.setAttribute('aria-label','Profile links');
     links.forEach(([label,url])=>{
-      const a=document.createElement('a');a.textContent=label;a.href=url;
+      const a=document.createElement('a');a.href=url;
+      if(label==='Email'){
+        const icon=document.createElement('span');icon.className='email-icon';icon.setAttribute('aria-hidden','true');
+        icon.innerHTML='<svg viewBox="0 0 16 16" width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="1.5" y="3" width="13" height="10" rx="2" stroke="currentColor" stroke-width="1.4"/><path d="m2.5 4 5.5 4.5L13.5 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+        a.append(icon,document.createTextNode(label));
+      }else{a.textContent=label;}
       if(!url.startsWith('mailto:')){a.target='_blank';a.rel='noopener noreferrer'}
       nav.appendChild(a);
     });
