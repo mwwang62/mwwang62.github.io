@@ -34,7 +34,7 @@ My interests lie at the intersection of experimental physics and computational m
 
 
 
-## Biography
+## Education
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
