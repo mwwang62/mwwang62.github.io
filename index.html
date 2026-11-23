@@ -105,6 +105,7 @@ async function loadContent(){
       const a=document.createElement('a');a.href=url;
       if(label==='Email' || label==='GitHub' || label==='LinkedIn'){
         const icon=document.createElement('span');icon.className='email-icon';icon.setAttribute('aria-hidden','true');
+        if(label==='LinkedIn') icon.style.cssText='width:15px;height:15px;display:inline-flex;align-items:center;justify-content:center;border:1px solid currentColor;border-radius:2px;box-sizing:border-box;margin-right:6px';
         icon.innerHTML=label==='Email'
           ? '<svg viewBox="0 0 16 16" width="13" height="13" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="1.5" y="3" width="13" height="10" rx="2" stroke="currentColor" stroke-width="1.4"/><path d="m2.5 4 5.5 4.5L13.5 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>'
           : label==='GitHub'
