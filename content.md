@@ -8,11 +8,12 @@
      Major in Physics with a double major in Electrical and Electronic Engineering.<br> </p>
 </div>
 
+
+## About
+
 **Physics Undergraduate · Scientific Computing · Detector Simulation**
 
 I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
-
-## About
 
 ### Research Interests
 
