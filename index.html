@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f8fc">
   <meta name="description" content="Personal portfolio and research profile.">
-  <title>Portfolio</title>
+  <title>mwwang | Portfolio</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -96,7 +96,7 @@ async function loadContent(){
   }
   const title=main.querySelector('h1');
   const name=title?title.textContent.trim():'Portfolio';
-  document.title=name+' | Portfolio';
+  document.title='mwwang | Portfolio';
   $('#footer-name').textContent=name;
   const pages={home:document.createElement('section'),publication:document.createElement('section'),photos:document.createElement('section'),etc:document.createElement('section')};
   Object.entries(pages).forEach(([key,el])=>{el.className='page-content';el.dataset.page=key;el.hidden=key!=='home';});
