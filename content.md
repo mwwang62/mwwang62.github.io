@@ -174,7 +174,6 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-content">
       <h3>pvglab, Seoul</h3>
       <p><strong>Sommelier (Part-time)</strong></p>
-      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -182,7 +181,6 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-content">
       <h3>Wine Route</h3>
       <p><strong>Wine Tasting & B2B Sales Associate (Part-time)</strong></p>
-      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -190,7 +188,6 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-content">
       <h3>Lumino Dining Bar, Seoul</h3>
       <p><strong>Junior Sommelier</strong></p>
-      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -198,7 +195,6 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-content">
       <h3>Republic of Korea NAVY</h3>
       <p><strong>Information & Communications Specialist, Cheon-Ji(AOE-57)</strong></p>
-      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
 </div>
