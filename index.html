@@ -67,9 +67,8 @@ async function loadContent(){
     ].filter(([,url])=>url && url.trim());
     const intro=document.createElement('section');
     intro.className='profile-intro';
-    const summary=document.createElement('div');
-    summary.className='profile-summary';
-    summary.innerHTML='<h2>Minwoo Wang</h2><p>Physics undergraduate interested in experimental particle physics, detector simulation, and scientific computing. Research experience in detector simulation and experimental data analysis.</p>';
+    const summary=main.querySelector('.profile-summary');
+    if(!summary) throw new Error('Add a <div class="profile-summary">...</div> block in content.md to display the profile introduction.');
     const nav=document.createElement('nav');
     nav.className='profile-links';
     nav.setAttribute('aria-label','Profile links');
