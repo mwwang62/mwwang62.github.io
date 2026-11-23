@@ -171,6 +171,14 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
+    <div class="bio-date">Sep. 2024 — May. 2025</div>
+    <div class="bio-content">
+      <h3>Wine Route</h3>
+      <p><strong>Wine Tasting & B2B Sales Associate (Part-time)</strong></p>
+      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
     <div class="bio-date">Dec. 2024 — Mar. 2026</div>
     <div class="bio-content">
       <h3>Lumino Dining Bar, Seoul</h3>
