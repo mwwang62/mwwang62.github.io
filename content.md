@@ -4,12 +4,13 @@
 
 <div class="profile-summary">
   <h2>Minwoo Wang</h2>
-  <p>Undergraduate student at Korea University, Seoul, majoring in Physics with a second major in Electrical and Electronic Engineering. My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.</p>
+  <p>Undergraduate student at Korea University, Seoul.
+    Major in Physics with a double major in Electrical and Electronic Engineering. </p>
 </div>
 
 **Physics Undergraduate · Scientific Computing · Detector Simulation**
 
-I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.
+I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
 
 ## About
 
