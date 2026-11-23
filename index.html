@@ -21,6 +21,11 @@
     .markdown{padding:70px 0 90px;max-width:900px}.markdown h1{font-size:clamp(38px,6vw,62px);letter-spacing:-2px;line-height:1.2;margin:0 0 20px;color:var(--ink)}.markdown h2{font-size:28px;letter-spacing:-.8px;margin:58px 0 18px;padding-bottom:12px;border-bottom:1px solid var(--line)}.markdown h3{font-size:19px;margin:30px 0 10px}.markdown p,.markdown li{color:#596276;font-size:15px;line-height:1.9}.markdown blockquote{margin:24px 0;padding:14px 20px;border-left:3px solid var(--blue);background:#eef0ff;border-radius:0 10px 10px 0;color:#596276}.markdown ul{padding-left:23px}.markdown a{color:var(--blue);text-decoration:underline}.markdown strong{color:var(--ink)}.markdown hr{border:0;border-top:1px solid var(--line);margin:38px 0}.markdown code{background:#eef0f5;padding:2px 6px;border-radius:5px}.markdown img{display:block;max-width:min(100%,720px);height:auto;margin:22px auto;border-radius:18px;box-shadow:0 12px 35px rgba(27,39,75,.12)}.markdown .profile-photo img{width:min(260px,65vw);max-height:360px;aspect-ratio:4/5;object-fit:cover;margin:8px 0 26px;border-radius:22px}.markdown.loading{text-align:center;color:var(--muted);padding:100px 0}.markdown.error{color:#b42318}
     .loading{padding:100px 0;text-align:center;color:var(--muted)}.error{color:#b42318}
     @media(max-width:760px){.links{display:none;position:absolute;top:72px;left:0;right:0;background:#fff;padding:18px 24px;flex-direction:column;gap:13px;border-bottom:1px solid var(--line)}.links.open{display:flex}.menu{display:block}.hero{grid-template-columns:1fr;padding:58px 0 35px;gap:30px}.about-grid,.cards{grid-template-columns:1fr}.timeline-item{grid-template-columns:1fr;gap:4px}.section-head{display:block}.section-head p{margin-top:8px}.contact{align-items:flex-start;flex-direction:column}footer{flex-direction:column}}
+
+    .profile-intro{display:grid;grid-template-columns:220px minmax(0,1fr);gap:34px;align-items:center;margin:18px 0 42px;padding:26px;border:1px solid var(--line);border-radius:24px;background:#fff;box-shadow:var(--shadow)}
+    .profile-intro .profile-photo{margin:0}.profile-intro .profile-photo img{display:block;width:100%;max-height:280px;aspect-ratio:4/5;object-fit:cover;margin:0;border-radius:18px}.profile-summary h2{margin:0 0 8px;font-size:1.55rem}.profile-summary p{margin:0 0 16px;color:var(--muted)}.profile-links{display:flex;flex-wrap:wrap;gap:9px}.profile-links a{display:inline-flex;align-items:center;padding:7px 12px;border:1px solid var(--line);border-radius:999px;font-size:.9rem;font-weight:600;color:var(--blue);background:#fff}.profile-links a:hover{background:#f1f3ff;border-color:#cbd2ff}
+    @media(max-width:760px){.profile-intro{grid-template-columns:120px minmax(0,1fr);gap:18px;padding:16px;margin:12px 0 32px}.profile-intro .profile-photo img{max-height:170px}.profile-summary h2{font-size:1.2rem}.profile-summary p{font-size:.9rem}.profile-links{gap:7px}.profile-links a{font-size:.8rem;padding:6px 10px}}
+    @media(max-width:420px){.profile-intro{grid-template-columns:1fr}.profile-intro .profile-photo img{width:150px}}
   </style>
 </head>
 <body>
@@ -37,6 +42,34 @@ async function loadContent(){
   const main=$('#content');
   main.innerHTML=marked.parse(markdown);
   main.classList.remove('loading');
+  const photo=main.querySelector('.profile-photo');
+  const heading=main.querySelector('h1');
+  if(photo && heading){
+    const params=new URLSearchParams(location.search);
+    const links=[
+      ['Email',params.get('email')||'mailto:wmw0602@korea.ac.kr'],
+      ['GitHub',params.get('github')||'https://github.com/mwwang62'],
+      ['Google Scholar',params.get('scholar')],
+      ['LinkedIn',params.get('linkedin')],
+      ['CV',params.get('cv')]
+    ].filter(([,url])=>url && url.trim());
+    const intro=document.createElement('section');
+    intro.className='profile-intro';
+    const summary=document.createElement('div');
+    summary.className='profile-summary';
+    summary.innerHTML='<h2>Minwoo Wang</h2><p>Physics undergraduate interested in experimental particle physics, detector simulation, and scientific computing. Research experience in detector simulation and experimental data analysis.</p>';
+    const nav=document.createElement('nav');
+    nav.className='profile-links';
+    nav.setAttribute('aria-label','Profile links');
+    links.forEach(([label,url])=>{
+      const a=document.createElement('a');a.textContent=label;a.href=url;
+      if(!url.startsWith('mailto:')){a.target='_blank';a.rel='noopener noreferrer'}
+      nav.appendChild(a);
+    });
+    summary.appendChild(nav);
+    photo.parentNode.insertBefore(intro,photo);
+    intro.append(photo,summary);
+  }
   const title=main.querySelector('h1');
   const name=title?title.textContent.trim():'Portfolio';
   document.title=name+' | Portfolio';
