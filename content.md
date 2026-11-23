@@ -12,6 +12,39 @@
 
 ## About
 
+### Biography
+
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-content">
+      <h3>First milestone or experience</h3>
+      <p>Write a short introduction to an important period, experience, or turning point in your life.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-content">
+      <h3>Second milestone or experience</h3>
+      <p>Describe an academic, personal, or extracurricular experience that helped shape your interests.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-content">
+      <h3>Third milestone or experience</h3>
+      <p>Highlight a research project, achievement, or skill you developed during this period.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — Present</div>
+    <div class="bio-content">
+      <h3>Current focus and future direction</h3>
+      <p>Summarize what you are currently working on and what you hope to pursue next.</p>
+    </div>
+  </div>
+</div>
+
 **Physics Undergraduate · Scientific Computing · Detector Simulation**
 
 I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
