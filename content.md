@@ -195,7 +195,7 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-content">
       <h3>Republic of Korea NAVY</h3>
       <p><strong>Information & Communications Specialist, ROKS CHEONJI (AOE-57)</strong></p>
-      <p>Stood regular communication watches, handling radio and satellite communication equipment to maintain continuous contact with naval command and fleet vessels.</p>
+      <p>Operated radio and satellite communication systems during regular watch duties, ensuring reliable and continuous communications between naval command and fleet vessels.</p>
     </div>
   </div>
 </div>
