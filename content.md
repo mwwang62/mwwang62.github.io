@@ -121,6 +121,19 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 `![Description of photo](assets/photos/your-photo.jpg)`
 
+## Scholarship
+
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">Spring. 2024 — present</div>
+    <div class="bio-content">
+      <h3>Kwanjeong Educational Foundation Scholarship (19th Cohort) | Kwanjeong Educational Foundation, South Korea</h3>
+      <p>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</p>
+      <p>Received merit-based financial support totaling KRW 16,000,000 (~USD 12,000) over four semesters.</p>
+    </div>
+  </div>
+</div>
+
 ## Leadership
 
 <div class="bio-timeline">
@@ -194,7 +207,7 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-date">Apr. 2026 — Dec. 2027</div>
     <div class="bio-content">
       <h3>Republic of Korea NAVY</h3>
-      <p><strong>Information Systems Technician, ROKS Chenji (AOE-57)</strong></p>
+      <p><strong>Information Systems Technician, ROKS Cheonji (AOE-57)</strong></p>
       <p>Operated radio and satellite communication systems during regular watch duties, ensuring reliable and continuous communications between naval command and fleet vessels.</p>
     </div>
   </div>
