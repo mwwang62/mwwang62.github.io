@@ -12,7 +12,27 @@
 
 ## About
 
-### Biography
+**Physics Undergraduate · Scientific Computing · Detector Simulation**
+
+I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
+
+### Research Interests
+
+My interests lie at the intersection of experimental physics and computational methods, particularly:
+
+- Detector physics and instrumentation
+- Particle transport and detector simulation
+- Scientific computing and data analysis
+- Python development and Linux-based research workflows
+
+### Technical Skills
+
+- **Programming:** Python
+- **Simulation:** Garfield++, Geant4
+- **Scientific data:** ROOT, binary-data processing, data visualization
+- **Environment:** Linux, Ubuntu
+
+## Biography
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
@@ -45,25 +65,6 @@
   </div>
 </div>
 
-**Physics Undergraduate · Scientific Computing · Detector Simulation**
-
-I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
-
-### Research Interests
-
-My interests lie at the intersection of experimental physics and computational methods, particularly:
-
-- Detector physics and instrumentation
-- Particle transport and detector simulation
-- Scientific computing and data analysis
-- Python development and Linux-based research workflows
-
-### Technical Skills
-
-- **Programming:** Python
-- **Simulation:** Garfield++, Geant4
-- **Scientific data:** ROOT, binary-data processing, data visualization
-- **Environment:** Linux, Ubuntu
 
 ## Education
 
