@@ -193,6 +193,14 @@ To add a photo later, upload the image to the repository (for example, into an `
       <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">Apr. 2026 — Dec. 2027</div>
+    <div class="bio-content">
+      <h3>Republic of Korea NAVY</h3>
+      <p><strong>Information & Communications Specialist, Cheon-Ji(AOE-57)</strong></p>
+      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
+    </div>
+  </div>
 </div>
 
 ## Files
