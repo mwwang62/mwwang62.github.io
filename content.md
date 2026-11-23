@@ -51,7 +51,7 @@ My interests lie at the intersection of experimental physics and computational m
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
-    <div class="bio-date">December 2023 — Present</div>
+    <div class="bio-date">Dec. 2023 — Apr.2025</div>
     <div class="bio-content">
       <h3>Stellar Nucleosynthesis Reaction Research Group, Korea University</h3>
       <p><strong>Research Group Member</strong><br>Research supervisor: Professor Ahn Jung-geun</p>
@@ -60,7 +60,7 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">June 2023 — August 2023</div>
+    <div class="bio-date">Jun.2023 — Aug.2023</div>
     <div class="bio-content">
       <h3>High Energy Experimental Laboratory, Korea University</h3>
       <p><strong>Research Assistant — Data Processing and Calibration</strong><br>Research supervisor: Professor Yoo Jae-hyeok<br><em>Millicharged Particle Search Laboratory</em></p>
@@ -68,14 +68,14 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">June 2023 — November 2024</div>
+    <div class="bio-date">Jun.2023 — Nov.2024</div>
     <div class="bio-content">
       <h3>Early Universe Research Laboratory, Korea University</h3>
       <p><strong>Research Group Affiliation</strong><br>Research supervisor: Professor Won Eun-il.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">March 2023 — July 2023</div>
+    <div class="bio-date">Mar.2023 — Jul.2023</div>
     <div class="bio-content">
       <h3>Detector Fabrication Laboratory, Korea University</h3>
       <p><strong>Research Group Affiliation</strong><br>Research supervisor: Professor Lee Kyung-se, Korea Detector Laboratory.</p>
