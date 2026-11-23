@@ -85,7 +85,7 @@ async function loadContent(){
       ['Email',params.get('email')||'mailto:wmw0602@korea.ac.kr'],
       ['GitHub',params.get('github')||'https://github.com/mwwang62'],
       ['Google Scholar',params.get('scholar')],
-      ['LinkedIn',params.get('linkedin')],
+      ['LinkedIn',params.get('linkedin')||'https://www.linkedin.com/in/minwoo-wang-55a447451/'],
       ['CV',params.get('cv')]
     ].filter(([,url])=>url && url.trim());
     const intro=document.createElement('section');
