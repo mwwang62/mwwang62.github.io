@@ -125,10 +125,18 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-date">Sep. 2022 — Feb. 2023</div>
     <div class="bio-content">
-      <h3>Organization or Activity Name</h3>
-      <p><strong>Leadership Position or Role</strong></p>
+      <h3>KU Sommelier (Official Wine club at Korea University)</h3>
+      <p><strong>President</strong></p>
+      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">Nov. 2022 — Oct. 2023</div>
+    <div class="bio-content">
+      <h3>Department of Physics Student Council</h3>
+      <p><strong>Vice President</strong></p>
       <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
@@ -138,10 +146,10 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
-    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-date">Dec. 2024 — Mar. 2026</div>
     <div class="bio-content">
-      <h3>Company or Organization Name</h3>
-      <p><strong>Job Title or Position</strong></p>
+      <h3>Lumino Dining Bar, Seoul</h3>
+      <p><strong>Junior Sommelier</strong></p>
       <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
     </div>
   </div>
