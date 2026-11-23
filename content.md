@@ -194,7 +194,8 @@ To add a photo later, upload the image to the repository (for example, into an `
     <div class="bio-date">Apr. 2026 — Dec. 2027</div>
     <div class="bio-content">
       <h3>Republic of Korea NAVY</h3>
-      <p><strong>Information & Communications Specialist, Cheon-Ji(AOE-57)</strong></p>
+      <p><strong>Information & Communications Specialist, ROKS CHEONJI (AOE-57)</strong></p>
+      <p>Stood regular communication watches, handling radio and satellite communication equipment to maintain continuous contact with naval command and fleet vessels.</p>
     </div>
   </div>
 </div>
