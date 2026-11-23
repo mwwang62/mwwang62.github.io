@@ -109,9 +109,9 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">Nov. 2022 — Oct. 2023</div>
+    <div class="bio-date">Aug. 2024</div>
     <div class="bio-content">
-      <h3>Department of Physics Student Council</h3>
+      <h3>Short-term Academic Visit, Research of Nuclear Physics (RCNP), Osaka University</h3>
       <p><strong>Vice President</strong></p>
       <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
