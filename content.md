@@ -34,14 +34,14 @@ My interests lie at the intersection of experimental physics and computational m
 
 
 
-## Education
+## Biography
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
     <div class="bio-date">Mar. 2022 — Present</div>
     <div class="bio-content">
       <h3>Korea University, Seoul</h3>
-      <p>Undergraduate Studies in Physics (Double major in Electrical Engineering)</p>
+      <p>Undergraduate Student in Physics (Double major in Electrical Engineering)</p>
     </div>
   </div>
 </div>
