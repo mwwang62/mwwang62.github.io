@@ -1,14 +1,14 @@
 <style>
-.profile-intro{grid-template-columns:56px minmax(0,1fr)!important;column-gap:18px!important;row-gap:8px!important;align-items:start!important}
-.profile-intro .profile-photo img{width:56px!important;max-width:56px!important;height:auto!important;max-height:none!important;object-fit:contain!important;margin:0!important;border-radius:3px!important;box-shadow:none!important}
+.profile-intro{grid-template-columns:10px minmax(0,1fr)!important;column-gap:18px!important;row-gap:8px!important;align-items:start!important}
+.profile-intro .profile-photo img{width:10px!important;max-width:10px!important;height:auto!important;max-height:none!important;object-fit:contain!important;margin:0!important;border-radius:3px!important;box-shadow:none!important}
 .profile-intro .profile-summary{grid-column:2!important;grid-row:1!important}
 .profile-intro .profile-summary h2{font-size:1.2rem!important;margin:0 0 4px!important}
 .profile-intro .profile-summary p{font-size:.88rem!important;line-height:1.65!important}
 .profile-intro .profile-links{grid-column:1!important;grid-row:2!important;gap:4px!important}
 .profile-intro .profile-links a{font-size:.68rem!important;padding:3px 5px!important}
 @media(max-width:760px){
- .profile-intro{grid-template-columns:48px minmax(0,1fr)!important;column-gap:12px!important;padding:14px!important}
- .profile-intro .profile-photo img{width:48px!important;max-width:48px!important}
+ .profile-intro{grid-template-columns:10px minmax(0,1fr)!important;column-gap:12px!important;padding:14px!important}
+ .profile-intro .profile-photo img{width:10px!important;max-width:10px!important}
  .profile-intro .profile-summary p{font-size:.8rem!important}
 }
 </style>
