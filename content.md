@@ -123,7 +123,29 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 ## Leadership
 
-Leadership, mentoring, and service experience can be added to this section.
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-content">
+      <h3>Organization or Activity Name</h3>
+      <p><strong>Leadership Position or Role</strong></p>
+      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+    </div>
+  </div>
+</div>
+
+## Work Experience
+
+<div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">YYYY — YYYY</div>
+    <div class="bio-content">
+      <h3>Company or Organization Name</h3>
+      <p><strong>Job Title or Position</strong></p>
+      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
+    </div>
+  </div>
+</div>
 
 ## Files
 
