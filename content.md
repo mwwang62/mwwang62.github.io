@@ -53,8 +53,10 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Spring, 2024 — present</div>
     <div class="bio-content">
       <h3>Kwanjeong Educational Foundation Scholarship (19th Cohort), South Korea</h3>
-      <p>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</p>
-      <p>Received merit-based financial support totaling <strong>KRW 16,000,000 (~USD 12,000)</strong>strong> over four semesters.</p>
+      <ul class="scholarship-points">
+        <li>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</li>
+        <li>Received merit-based financial support totaling <strong>KRW 16,000,000 (~USD 12,000)</strong> over four semesters.</li>
+      </ul>
     </div>
   </div>
 </div>
