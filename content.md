@@ -156,13 +156,6 @@ To add a photo later, upload the image to the repository (for example, into an `
       <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
-  <div class="bio-timeline-item">
-    <div class="bio-date">Dec. 2025 — Apr. 2026</div>
-    <div class="bio-content">
-      <h3>Interim College of Science Student Council</h3>
-      <p><strong>Chair</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
-    </div>
   </div>
   <div class="bio-timeline-item">
     <div class="bio-date">Dec. 2025 — Apr. 2026</div>
