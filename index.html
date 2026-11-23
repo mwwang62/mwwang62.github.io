@@ -115,6 +115,28 @@ async function loadContent(){
     });
     const photoColumn=document.createElement('div');
     photoColumn.className='profile-photo-column';
+    // Set layout on the elements themselves so broad theme/section rules cannot
+    // collapse the profile into a vertical stack.
+    intro.style.setProperty('display','grid','important');
+    intro.style.setProperty('grid-template-columns','220px minmax(0,1fr)','important');
+    intro.style.setProperty('grid-template-rows','auto auto','important');
+    intro.style.setProperty('column-gap','22px','important');
+    intro.style.setProperty('row-gap','12px','important');
+    intro.style.setProperty('align-items','start','important');
+    photoColumn.style.setProperty('grid-column','1','important');
+    photoColumn.style.setProperty('grid-row','1 / span 2','important');
+    photoColumn.style.setProperty('width','220px','important');
+    photoColumn.style.setProperty('min-width','0','important');
+    summary.style.setProperty('grid-column','2','important');
+    summary.style.setProperty('grid-row','1','important');
+    summary.style.setProperty('display','block','important');
+    summary.style.setProperty('width','100%','important');
+    summary.style.setProperty('min-width','0','important');
+    nav.style.setProperty('display','flex','important');
+    nav.style.setProperty('flex-direction','row','important');
+    nav.style.setProperty('flex-wrap','wrap','important');
+    nav.style.setProperty('gap','7px','important');
+    nav.style.setProperty('margin-top','12px','important');
     photo.parentNode.insertBefore(intro,photo);
     intro.append(photoColumn,summary);
     photoColumn.append(photo,nav);
