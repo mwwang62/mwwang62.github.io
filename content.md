@@ -86,6 +86,10 @@ Built Python tools for experimental data processing: extracted header informatio
 
 **Tools:** Python, ROOT, Binary Data Processing, Time Calibration
 
+## Publications
+
+No peer-reviewed publications have been listed yet.
+
 ## Presentations
 
 ### October 23, 2024 | Korean Physical Society Meeting
@@ -100,6 +104,10 @@ This section is reserved for research, conference, laboratory, and profile photo
 To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
 
 `![Description of photo](assets/photos/your-photo.jpg)`
+
+## Leadership
+
+Leadership, mentoring, and service experience can be added to this section.
 
 ## Files
 
