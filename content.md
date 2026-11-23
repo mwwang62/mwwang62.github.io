@@ -32,6 +32,7 @@ My interests lie at the intersection of experimental physics and computational m
 - **Scientific data:** ROOT, binary-data processing, data visualization
 - **Environment:** Linux, Ubuntu
 
+
 ## Biography
 
 <div class="bio-timeline">
@@ -64,6 +65,7 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
 </div>
+
 
 
 ## Education
