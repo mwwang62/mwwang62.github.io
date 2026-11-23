@@ -171,6 +171,14 @@ To add a photo later, upload the image to the repository (for example, into an `
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
+    <div class="bio-date">Feb. 2023 — Aug. 2023</div>
+    <div class="bio-content">
+      <h3>PVGLAB, Seoul</h3>
+      <p><strong>Part-time Sommelier</strong></p>
+      <p>Describe your main responsibilities, projects, achievements, and skills developed in this role.</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
     <div class="bio-date">Sep. 2024 — May. 2025</div>
     <div class="bio-content">
       <h3>Wine Route</h3>
