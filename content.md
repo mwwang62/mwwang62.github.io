@@ -1,5 +1,9 @@
 # Minwoo Wang
 
+<div class="profile-photo">
+  <img src="assets/photos/profile-photo.jpg" alt="Portrait of Minwoo Wang">
+</div>
+
 **Physics Undergraduate · Scientific Computing · Detector Simulation**
 
 I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.
