@@ -103,16 +103,16 @@ My interests lie at the intersection of experimental physics and computational m
   <div class="bio-timeline-item">
     <div class="bio-date">Aug. 2024 (2 weeks)</div>
     <div class="bio-content">
-      <h3>Research of Nuclear Physics (RCNP), Osaka University</h3>
+      <h3>Research of Nuclear Physics (RCNP), Osaka University | Osaka, Japan</h3>
       <p><strong>Short-term Academic Visit</strong></p>
       <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">Sep. 2022 — Feb. 2023</div>
+    <div class="bio-date">Nov.30 2023 — Dec.2 2023</div>
     <div class="bio-content">
-      <h3>KU Sommelier (Official Wine club at Korea University)</h3>
-      <p><strong>President</strong></p>
+      <h3>International workshop on Multi-probe approach to wavy dark matters | Seoul, South Korea</h3>
+      <p><strong>Conference Staff / Student Volunteer</strong></p>
       <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
