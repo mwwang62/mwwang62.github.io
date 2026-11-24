@@ -94,7 +94,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Jun. 2023 — Aug. 2023</div>
     <div class="bio-content">
       <h3>High Energy Physics Experimental Laboratory, Korea University</h3>
-      <p><strong>Undergraduate Researcher — Data Processing and Calibration</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
+      <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
       <em>Project : SUB-Millicharge Experiment (SUBMET)</em></p>
       <p>Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format. Also developed Python code for time calibration to correct timing differences across 16 parallel data channels.</p>
     </div>
