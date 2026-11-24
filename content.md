@@ -102,7 +102,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Early Universe Research Laboratory, Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Eunil Won)<br><em>Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
-      <p>Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO), designed to distinguish genuine photon hits from crosstalk in MAPMT signals. Validated the design through simulations, FPGA implementation tests, and experimental measurements using a radioactive source.</p>
+      <p>Developed FPGA-based DAQ logic for the UFFO Burst & Alert Trigger Telescope (UBAT) instrument of the Ultra-Fast Flash Observatory (UFFO), designed to distinguish genuine photon hits from crosstalk in MAPMT signals. Validated the design through simulations, FPGA implementation tests, and experimental measurements using a radioactive source.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
