@@ -92,7 +92,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Mar. 2023 — Jul. 2023</div>
     <div class="bio-content">
       <h3>Korea Detector Laboratory (KODEL), Korea University</h3>
-      <p><strong>Undergraduate Researcher</strong>(Adviser: Dr. Kyongsei Lee)</p>
+      <p><strong>Undergraduate Researcher</strong> (Adviser: Dr. Kyongsei Lee)</p>
     </div>
   </div>
 </div>
@@ -105,7 +105,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Research of Nuclear Physics (RCNP), Osaka University | Osaka, Japan</h3>
       <p><strong>Short-term Academic Visit</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -113,7 +112,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>International workshop on Multi-probe approach to wavy dark matters | Seoul, South Korea</h3>
       <p><strong>Conference Staff / Student Volunteer</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
 </div>
@@ -127,7 +125,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>KU Sommelier (Official Wine club at Korea University)</h3>
       <p><strong>President</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -135,7 +132,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Department of Physics Student Council</h3>
       <p><strong>Vice President</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -143,7 +139,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>55th College of Science Student Council</h3>
       <p><strong>Vice President</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
