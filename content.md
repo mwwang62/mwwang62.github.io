@@ -114,6 +114,7 @@ My interests lie at the intersection of experimental physics and computational m
         <li>Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO) to discriminate genuine photon hits from MAPMT crosstalk.</li>
         <li>Validated the trigger and readout design through behavioral simulations, FPGA hardware tests, and experimental measurements with a radioactive source.</li>
       </ul>
+    </div>
   </div>
   <div class="bio-timeline-item">
     <div class="bio-date">Mar. 2023 — Jul. 2023</div>
