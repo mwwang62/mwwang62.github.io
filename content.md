@@ -118,7 +118,7 @@ My interests lie at the intersection of experimental physics and computational m
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
-    <div class="bio-date">Oct.23 2024</div>
+    <div class="bio-date">Oct.22- 26, 2024</div>
     <div class="bio-content">
       <h3>2024 The Korean Physical Society Fall Meeting | Yeosu, South Korea</h3>
       <p><strong>Poster presentation · P1-nu.013</strong></p>
