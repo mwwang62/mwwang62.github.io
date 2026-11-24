@@ -86,7 +86,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Hadron & Nuclear Physics Laboratory (HANUL), Korea University</h3>
       <p><strong>Research Group Member</strong> (Advisor: Prof. Jung-Keun Ahn)<br><em>Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
-      <p>Conducted electron-transmission simulations through a gating GEM using <strong>Garfield++</strong> on Ubuntu Linux. Developed Python code to calculate electron transmission rates and associated errors, and generated and analyzed <em>Transmission Rate vs. ΔV across GEM</em> plots.</p>
+      <p>Conducted <strong>Garfield++</strong> simulations of a gating GEM for the COREA active-target TPC, analyzing electric-field distributions and electron transmission as a function of the GEM voltage.</p>
       <p>Presented a research poster at the <strong>2024 Korean Physical Society (KPS) meeting</strong>: “Garfield simulation on a gating GEM operation for COREA” (P1-nu.013, October 23, 2024).</p>
     </div>
   </div>
@@ -110,6 +110,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Korea Detector Laboratory (KODEL), Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Adviser: Dr. Kyongsei Lee)</p>
+      <p>Participated in the fabrication of <strong>Resistive Plate Chambers (RPCs)</strong> for the CMS detector at CERN, which were prepared for delivery to Europe.</p>
     </div>
   </div>
 </div>
