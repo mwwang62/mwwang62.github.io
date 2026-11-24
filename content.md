@@ -114,9 +114,17 @@ My interests lie at the intersection of experimental physics and computational m
   </div>
 </div>
 
-## Academic Experience
+## Academic Activities & Presentations
 
 <div class="bio-timeline">
+  <div class="bio-timeline-item">
+    <div class="bio-date">Oct.23 2024</div>
+    <div class="bio-content">
+      <h3>2024 The Korean Physical Society Fall Meeting | Yeosu, South Korea</h3>
+      <p><strong>Poster presentation · P1-nu.013</strong></p>
+      <p>“Garfield simulation on a gating GEM operation for COREA”</p>
+    </div>
+  </div>
   <div class="bio-timeline-item">
     <div class="bio-date">Jul. 2024 (2 weeks)</div>
     <div class="bio-content">
@@ -125,13 +133,22 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
   <div class="bio-timeline-item">
+    <div class="bio-date">Dec.9 2023</div>
+    <div class="bio-content">
+      <h3>KU GRB Observation Group Seminar 2023 | Seoul, South Korea</h3>
+      <p><strong>Oral presentation</strong></p>
+      <p>“DAQ of UBAT”</p>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
     <div class="bio-date">Nov.30 2023 — Dec.2 2023</div>
     <div class="bio-content">
-      <h3>International workshop on Multi-probe approach to wavy dark matters  |  Seoul, South Korea</h3>
+      <h3>International workshop on Multi-probe approach to wavy dark matters | Seoul, South Korea</h3>
       <p><strong>Conference Staff / Student Volunteer</strong></p>
     </div>
   </div>
 </div>
+
 
 
 ## Leadership
