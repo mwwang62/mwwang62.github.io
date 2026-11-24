@@ -60,12 +60,19 @@ My interests lie at the intersection of experimental physics and computational m
     </div>
   </div>
   <div class="bio-timeline-item">
-    <div class="bio-date">Fall Semester, 2023</div>
+    <div class="bio-date">Fall, 2023</div>
     <div class="bio-content">
       <h3>Jin Tae Young Scholarship  |  Department of Physics, Korea University</h3>
       <ul class="scholarship-points">
-        <li>Selected as a 19th Kwanjeong Scholar by South Korea's largest private educational foundation, awarded to top-performing undergraduate students based on academic excellence and leadership potential.</li>
-        <li>Received merit-based financial support totaling <strong>KRW 3,101,000 (~USD 2,300)</strong> over one semester.</li>
+        <li>Awarded a departmental endowment scholarship established by physics alumni in recognition of academic achievement in physics.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="bio-timeline-item">
+    <div class="bio-date">Spring, 2024 & Spring, 2025</div>
+    <div class="bio-content">
+      <h3>Academic Excellence Scholarship  |  Korea University</h3>
+      <ul class="scholarship-points">
       </ul>
     </div>
   </div>
