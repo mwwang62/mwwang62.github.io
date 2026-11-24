@@ -96,7 +96,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>High Energy Physics Experimental Laboratory, Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
       <em>Project : SUB-Millicharge Experiment (SUBMET)</em></p>
-      <p>Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format. Also developed Python code for time calibration to correct timing differences across 16 parallel data channels.</p>
+      <p>Developed Python scripts to parse header metadata from raw binary data files into ROOT TTree format, and implemented time-calibration routines to correct channel-to-channel timing offsets across 16 parallel readout channels.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
