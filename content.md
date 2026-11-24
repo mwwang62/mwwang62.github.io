@@ -128,7 +128,7 @@ My interests lie at the intersection of experimental physics and computational m
   <div class="bio-timeline-item">
     <div class="bio-date">Jul. 2024 (2 weeks)</div>
     <div class="bio-content">
-      <h3>Research of Nuclear Physics (RCNP), Osaka University  |  Osaka, Japan</h3>
+      <h3>Research of Nuclear Physics (RCNP), Osaka University | Osaka, Japan</h3>
       <p><strong>Short-term Academic Visit</strong></p>
     </div>
   </div>
