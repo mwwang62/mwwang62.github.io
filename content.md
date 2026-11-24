@@ -64,7 +64,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Jin Tae Young Scholarship  |  Department of Physics, Korea University</h3>
       <ul class="scholarship-points">
-        <li>Awarded a departmental endowment scholarship established by physics alumni in recognition of academic achievement in physics.</li>
+        <li>Recipient of a departmental endowment scholarship established by physics alumni in recognition of academic excellence.</li>
       </ul>
     </div>
   </div>
