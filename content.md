@@ -87,7 +87,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>Hadron & Nuclear Physics Laboratory (HANUL), Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jung-Keun Ahn)<br>
       <em>Project : Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
-      <p>Performed <strong>Garfield++</strong> simulations of a <strong>gating GEM</strong> for the COREA active-target TPC, analyzing electric-field distributions and electron transmission across GEM bias voltage.</p>
+      <p>· Performed <strong>Garfield++</strong> simulations of a <strong>gating GEM</strong> for the COREA active-target TPC, analyzing electric-field distributions and electron transmission across GEM bias voltage.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -108,15 +108,13 @@ My interests lie at the intersection of experimental physics and computational m
       <em>Project : Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
       <p>· Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO) to discriminate genuine photon hits from MAPMT crosstalk.
       <br>· Validated the trigger and readout design through behavioral simulations, FPGA hardware tests, and experimental measurements with a radioactive source.</p>
-      
-    </div>
   </div>
   <div class="bio-timeline-item">
     <div class="bio-date">Mar. 2023 — Jul. 2023</div>
     <div class="bio-content">
       <h3>Korea Detector Laboratory (KODEL), Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Adviser: Dr. Kyongsei Lee)</p>
-      <p>Participated in the fabrication of <strong>Resistive Plate Chambers (RPCs)</strong> for the CMS detector at CERN, which were prepared for delivery to Europe.</p>
+      <p>· Participated in the fabrication of <strong>Resistive Plate Chambers (RPCs)</strong> for the CMS detector at CERN, which were prepared for delivery to Europe.</p>
     </div>
   </div>
 </div>
