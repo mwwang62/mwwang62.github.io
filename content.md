@@ -87,7 +87,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>Hadron & Nuclear Physics Laboratory (HANUL), Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jung-Keun Ahn)<br>
       <em>Project : Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
-      <p>Conducted <strong>Garfield++</strong> simulations of a gating GEM for the COREA active-target TPC, analyzing electric-field distributions and electron transmission as a function of the GEM voltage.</p>
+      <p>Performed <strong>Garfield++</strong> simulations of a <strong>gating GEM</strong> for the COREA active-target TPC, analyzing electric-field distributions and electron transmission across GEM bias voltage.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
