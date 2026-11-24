@@ -96,7 +96,8 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>High Energy Physics Experimental Laboratory, Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
       <em>Project : SUB-Millicharge Experiment (SUBMET)</em></p>
-      <p>Developed Python scripts to parse header metadata from raw binary data files into ROOT TTree format, and implemented time-calibration routines to correct channel-to-channel timing offsets across 16 parallel readout channels.</p>
+      <p>· Developed Python pipelines to parse header information from raw binary data files and serialize the structured events into ROOT TTree format.
+      <br>· Developed Python calibration tools to correct channel-to-channel timing offsets across 16 parallel readout channels.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -105,7 +106,9 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>Early Universe Research Laboratory, Korea University</h3>
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Eunil Won)<br>
       <em>Project : Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
-      <p>Developed FPGA-based DAQ logic for the UFFO Burst & Alert Trigger Telescope (UBAT) instrument of the Ultra-Fast Flash Observatory (UFFO), designed to distinguish genuine photon hits from crosstalk in MAPMT signals. Validated the design through simulations, FPGA implementation tests, and experimental measurements using a radioactive source.</p>
+      <p>· Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO) to discriminate genuine photon hits from MAPMT crosstalk.
+      <br>· Validated the trigger and readout design through behavioral simulations, FPGA hardware tests, and experimental measurements with a radioactive source.</p>
+      
     </div>
   </div>
   <div class="bio-timeline-item">
