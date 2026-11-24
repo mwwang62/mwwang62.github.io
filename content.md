@@ -84,8 +84,8 @@ My interests lie at the intersection of experimental physics and computational m
   <div class="bio-timeline-item">
     <div class="bio-date">Dec. 2023 — Apr. 2025</div>
     <div class="bio-content">
-      <h3>Stellar Nucleosynthesis Reaction Research Group, Korea University</h3>
-      <p><strong>Research Group Member</strong><br>Research supervisor: Professor Ahn Jung-geun</p>
+      <h3>Hadron & Nuclear Physics Laboratory (HANUL), Korea University</h3>
+      <p><strong>Research Group Member</strong> (Advisor: Prof. Jung-Keun Ahn)<br><em>Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
       <p>Conducted electron-transmission simulations through a gating GEM using <strong>Garfield++</strong> on Ubuntu Linux. Developed Python code to calculate electron transmission rates and associated errors, and generated and analyzed <em>Transmission Rate vs. ΔV across GEM</em> plots.</p>
       <p>Presented a research poster at the <strong>2024 Korean Physical Society (KPS) meeting</strong>: “Garfield simulation on a gating GEM operation for COREA” (P1-nu.013, October 23, 2024).</p>
     </div>
@@ -94,7 +94,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Jun. 2023 — Aug. 2023</div>
     <div class="bio-content">
       <h3>High Energy Physics Experimental Laboratory, Korea University</h3>
-      <p><strong>Undergraduate Researcher — Data Processing and Calibration</strong> (Advisor: Prof. Jae Hyeok Yoo)<br><em>SUB-Millicharge Experiment (SUBMET)</em></p>
+      <p><strong>Undergraduate Researcher — Data Processing and Calibration</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br><em>SUB-Millicharge Experiment (SUBMET)</em></p>
       <p>Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format. Also developed Python code for time calibration to correct timing differences across 16 parallel data channels.</p>
     </div>
   </div>
