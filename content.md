@@ -242,7 +242,7 @@ No peer-reviewed publications have been listed yet.
 
 **“Garfield simulation on a gating GEM operation for COREA”**  
 Poster presentation · P1-nu.013
-<br>
+<br><div class="presentation-gap"></div>
 
 ### December 9, 2023 | KU GRB Observation Group Seminar 2023
 
