@@ -265,7 +265,7 @@ Poster presentation · P1-nu.013
 
 **“DAQ of UBAT”**  
 Speaker presentation · Korea University  
-[Official seminar page](https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/)
+[Official seminar page](https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/) · [Presentation slides (Google Drive)](https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing)
 
 ## Photos
 
