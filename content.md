@@ -91,8 +91,8 @@ My interests lie at the intersection of experimental physics and computational m
   <div class="bio-timeline-item">
     <div class="bio-date">Mar. 2023 — Jul. 2023</div>
     <div class="bio-content">
-      <h3>Detector Fabrication Laboratory, Korea University</h3>
-      <p><strong>Undergraduate Researcher</strong><br>Research supervisor: Professor Lee Kyung-se, Korea Detector Laboratory.</p>
+      <h3>Korea Detector Laboratory (KODEL), Korea University</h3>
+      <p><strong>Undergraduate Researcher</strong>(Adviser: Dr. Kyongsei Lee)</p>
     </div>
   </div>
 </div>
