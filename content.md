@@ -264,7 +264,8 @@ Poster presentation · P1-nu.013
 ### December 9, 2023 | KU GRB Observation Group Seminar 2023
 
 **“DAQ of UBAT”**  
-Speaker presentation · Korea University
+Speaker presentation · Korea University  
+[Official seminar page](https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/)
 
 ## Photos
 
