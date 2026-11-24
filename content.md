@@ -123,7 +123,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>2024 Korean Physical Society (KPS) Fall Meeting | Yeosu, South Korea</h3>
       <p><strong>Poster presentation · P1-nu.013</strong></p>
       <p>“Garfield simulation on a gating GEM operation for COREA”</p>
-      <p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/16ln92gp_PA67fMCTB8QFS82D9gFvqFH9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a></p>
+      <p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/16ln92gp_PA67fMCTB8QFS82D9gFvqFH9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -139,7 +139,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>KU GRB Observation Group Seminar 2023 | Seoul, South Korea</h3>
       <p><strong>Oral presentation</strong></p>
       <p>“DAQ of UBAT”</p>
-      <p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides</a></p>
+      <p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -261,14 +261,14 @@ No peer-reviewed publications have been listed yet.
 
 **“Garfield simulation on a gating GEM operation for COREA”**  
 Poster presentation · P1-nu.013
-<p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/16ln92gp_PA67fMCTB8QFS82D9gFvqFH9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster</a></p>
+<p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/16ln92gp_PA67fMCTB8QFS82D9gFvqFH9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
 <br><div class="presentation-gap"></div>
 
 ### December 9, 2023 | KU GRB Observation Group Seminar 2023
 
 **“DAQ of UBAT”**  
 Speaker presentation · Korea University
-<p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides</a></p>
+<p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
 
 ## Photos
 
