@@ -138,6 +138,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>KU GRB Observation Group Seminar 2023 | Seoul, South Korea</h3>
       <p><strong>Oral presentation</strong></p>
       <p>“DAQ of UBAT”</p>
+      <p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides (Google Drive)</a></p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -264,8 +265,7 @@ Poster presentation · P1-nu.013
 ### December 9, 2023 | KU GRB Observation Group Seminar 2023
 
 **“DAQ of UBAT”**  
-Speaker presentation · Korea University  
-[Official seminar page](https://cds.kuhep.kreonet.net:7443/event/2/contributions/39/) · [Presentation slides (Google Drive)](https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing)
+Speaker presentation · Korea University
 
 ## Photos
 
