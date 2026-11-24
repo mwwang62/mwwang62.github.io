@@ -85,7 +85,8 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Dec. 2023 — Apr. 2025</div>
     <div class="bio-content">
       <h3>Hadron & Nuclear Physics Laboratory (HANUL), Korea University</h3>
-      <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jung-Keun Ahn)<br><em>Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
+      <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jung-Keun Ahn)<br>
+      <em>Project : Carbon Oxygen Reaction Experiment with Active-target TPC (COREA)</em></p>
       <p>Conducted <strong>Garfield++</strong> simulations of a gating GEM for the COREA active-target TPC, analyzing electric-field distributions and electron transmission as a function of the GEM voltage.</p>
     </div>
   </div>
@@ -93,7 +94,8 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Jun. 2023 — Aug. 2023</div>
     <div class="bio-content">
       <h3>High Energy Physics Experimental Laboratory, Korea University</h3>
-      <p><strong>Undergraduate Researcher — Data Processing and Calibration</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br><em>SUB-Millicharge Experiment (SUBMET)</em></p>
+      <p><strong>Undergraduate Researcher — Data Processing and Calibration</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
+      <em>Project : SUB-Millicharge Experiment (SUBMET)</em></p>
       <p>Developed Python code to parse header information from binary data files, organize the information into a tree structure, and save it in ROOT format. Also developed Python code for time calibration to correct timing differences across 16 parallel data channels.</p>
     </div>
   </div>
@@ -101,7 +103,8 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-date">Jun. 2023 — Nov. 2024</div>
     <div class="bio-content">
       <h3>Early Universe Research Laboratory, Korea University</h3>
-      <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Eunil Won)<br><em>Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
+      <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Eunil Won)<br>
+      <em>Project : Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
       <p>Developed FPGA-based DAQ logic for the UFFO Burst & Alert Trigger Telescope (UBAT) instrument of the Ultra-Fast Flash Observatory (UFFO), designed to distinguish genuine photon hits from crosstalk in MAPMT signals. Validated the design through simulations, FPGA implementation tests, and experimental measurements using a radioactive source.</p>
     </div>
   </div>
