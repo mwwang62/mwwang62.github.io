@@ -188,7 +188,6 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Republic of Korea NAVY</h3>
       <p><strong>Information Systems Technician, ROKS Cheonji (AOE-57)</strong></p>
-      <p>Operated radio and satellite communication systems during regular watch duties, ensuring reliable and continuous communications between naval command and fleet vessels.</p>
     </div>
   </div>
 </div>
