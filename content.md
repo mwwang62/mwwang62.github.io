@@ -146,7 +146,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>56th College of Science Student Council</h3>
       <p><strong>President</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+      <p>Led college-wide student governance across all science departments, coordinating academic welfare initiatives and budget management with the Dean’s Office.</p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -154,7 +154,7 @@ My interests lie at the intersection of experimental physics and computational m
     <div class="bio-content">
       <h3>Interim Student Government Association</h3>
       <p><strong>Chair</strong></p>
-      <p>Describe your responsibilities, initiatives, contributions, and the impact of your involvement.</p>
+      <p>Led the interim student government and served as a student representative on the University Senate and Tuition Review Committee, negotiating tuition and academic policies with university leadership.</p>
     </div>
   </div>
 </div>
