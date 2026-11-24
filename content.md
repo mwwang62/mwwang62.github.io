@@ -123,7 +123,7 @@ My interests lie at the intersection of experimental physics and computational m
       <h3>2024 Korean Physical Society (KPS) Fall Meeting | Yeosu, South Korea</h3>
       <p><strong>Poster presentation · P1-nu.013</strong></p>
       <p>“Garfield simulation on a gating GEM operation for COREA”</p>
-      <p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/15p5vhO2nPv0JeHb7HYM5x2cQpPZE0MJq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides (Google Drive)</a></p>
+      <p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/15p5vhO2nPv0JeHb7HYM5x2cQpPZE0MJq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster (Google Drive)</a></p>
     </div>
   </div>
   <div class="bio-timeline-item">
@@ -261,7 +261,7 @@ No peer-reviewed publications have been listed yet.
 
 **“Garfield simulation on a gating GEM operation for COREA”**  
 Poster presentation · P1-nu.013
-<p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/15p5vhO2nPv0JeHb7HYM5x2cQpPZE0MJq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides (Google Drive)</a></p>
+<p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/15p5vhO2nPv0JeHb7HYM5x2cQpPZE0MJq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster (Google Drive)</a></p>
 <br><div class="presentation-gap"></div>
 
 ### December 9, 2023 | KU GRB Observation Group Seminar 2023
