@@ -12,27 +12,11 @@
 
 ## About
 
-**Physics Undergraduate · Scientific Computing · Detector Simulation**
+I am an undergraduate student at Korea University, majoring in **Physics** and double-majoring in **Electrical Engineering**. My academic interests center on experimental particle and nuclear physics, detector instrumentation, and scientific computing.
 
-I am an undergraduate student at Korea University studying Physics and Electrical and Electronic Engineering. My research experience focuses on experimental particle physics, detector simulation, and scientific programming. I use Python and Linux-based tools to process experimental data, develop analysis workflows, and study charged-particle behavior in detector systems.My research interests include experimental particle physics, detector simulation, and scientific computing. I have experience with Garfield++, Geant4, Python, and ROOT for simulation and experimental data analysis.
+My research experience spans detector simulation, experimental data analysis, DAQ development, and detector fabrication. I have worked on Garfield++ simulations of a gating GEM for the COREA active-target TPC, Python-based data processing and timing calibration for the SUBMET experiment, and FPGA-based DAQ logic for the UBAT instrument of UFFO. I also participated in the fabrication of RPC detectors for the CMS experiment at CERN. Through these projects, I have developed experience with **Python, ROOT, Garfield++, Geant4, FPGA-based systems, and Linux**.
 
-### Research Interests
-
-My interests lie at the intersection of experimental physics and computational methods, particularly:
-
-- Detector physics and instrumentation
-- Particle transport and detector simulation
-- Scientific computing and data analysis
-- Python development and Linux-based research workflows
-
-### Technical Skills
-
-- **Programming:** Python
-- **Simulation:** Garfield++, Geant4
-- **Scientific data:** ROOT, binary-data processing, data visualization
-- **Environment:** Linux, Ubuntu
-
-
+Beyond research, I have presented my work at the Korean Physical Society Fall Meeting and the KU GRB Observation Group Seminar, and participated in a short-term academic visit to Osaka University's Research Center for Nuclear Physics. I have received merit-based scholarships in recognition of academic performance and served in student government leadership roles, including President of the College of Science Student Council and Chair of the Interim Student Government Association. My work experience in the wine and hospitality industry has also strengthened my communication, teamwork, and client-facing skills. I am currently serving in the Republic of Korea Navy as an Information Systems Technician.
 
 ## Education
 
