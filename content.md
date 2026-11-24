@@ -99,8 +99,7 @@ My interests lie at the intersection of experimental physics and computational m
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Jae-Hyeok Yoo)<br>
       <em>Project : SUB-Millicharge Experiment (SUBMET)</em></p>
       <ul class="scholarship-points research-compact-points">
-        <li>Developed Python pipelines to parse header information from raw binary data files and serialize the structured events into ROOT TTree format.</li>
-        <li>Developed Python calibration tools to correct channel-to-channel timing offsets across 16 parallel readout channels.</li>
+        <li>Developed Python pipelines to parse header information from raw binary data files and serialize the structured events into ROOT TTree format & Developed Python calibration tools to correct channel-to-channel timing offsets across 16 parallel readout channels.</li>
       </ul>
     </div>
   </div>
@@ -111,8 +110,7 @@ My interests lie at the intersection of experimental physics and computational m
       <p><strong>Undergraduate Researcher</strong> (Advisor: Prof. Eunil Won)<br>
       <em>Project : Korea University Gamma Ray Burst Experiment (KUGRB)</em></p>
       <ul class="scholarship-points research-compact-points">
-        <li>Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO) to discriminate genuine photon hits from MAPMT crosstalk.</li>
-        <li>Validated the trigger and readout design through behavioral simulations, FPGA hardware tests, and experimental measurements with a radioactive source.</li>
+        <li>Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO) to discriminate genuine photon hits from MAPMT crosstalk & Validated the trigger and readout design through behavioral simulations, FPGA hardware tests, and experimental measurements with a radioactive source.</li>
       </ul>
     </div>
   </div>
