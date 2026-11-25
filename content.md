@@ -236,6 +236,8 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
 **“Garfield simulation on a gating GEM operation for COREA”**  
 Poster presentation · P1-nu.013
 <p><a href="https://www.kps.or.kr/conference/event/index.php?cfrid=23" target="_blank" rel="noopener noreferrer">Official meeting page</a> · <a href="https://drive.google.com/file/d/16ln92gp_PA67fMCTB8QFS82D9gFvqFH9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Poster<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
+<div class="presentation-entry-gap"></div>
+
 <h3 class="presentation-entry-title">December 9, 2023 | KU GRB Observation Group Seminar 2023</h3>
 
 **“DAQ of UBAT”**  
@@ -250,17 +252,23 @@ Simulated electron transport through a gating Gas Electron Multiplier (GEM) for 
 
 **Tools:** Garfield++, Python, Linux (Ubuntu)
 
+<div class="project-entry-gap"></div>
+
 <h3 class="project-entry-title">Binary Data Processing and 16-Channel Time Calibration | SUBMET</h3>
 
 Developed Python tools to process experimental binary data by extracting header information, organizing event data into a structured format, and saving it as ROOT TTrees. Also developed a time-calibration tool to correct timing differences among 16 parallel readout channels.
 
 **Tools:** Python, ROOT
 
+<div class="project-entry-gap"></div>
+
 <h3 class="project-entry-title">FPGA-Based Data Acquisition Logic | UFFO/UBAT</h3>
 
 Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO), focusing on distinguishing genuine photon hits from MAPMT crosstalk. Evaluated the trigger and readout logic through behavioral simulations and FPGA hardware tests, including experimental measurements using a radioactive source.
 
 **Tools:** FPGA
+
+<div class="project-entry-gap"></div>
 
 <h3 class="project-entry-title">CMS Resistive Plate Chamber Fabrication</h3>
 
