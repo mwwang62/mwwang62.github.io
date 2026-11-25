@@ -16,7 +16,7 @@ I am an undergraduate student at Korea University, majoring in <strong>Physics</
 
 Throughout my undergraduate years, I have sought to broaden my perspective by engaging with unfamiliar subjects and taking on new intellectual challenges. Alongside my academic training, experiences in student government and the hospitality industry have strengthened my ability to communicate effectively, collaborate across teams, and carry out responsibilities reliably.
 
-I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Information Systems Technician. This period has provided an opportunity to reflect carefully on my long-term goals and clarify the kind of researcher I aim to become as I prepare for the next stage of my academic path.
+I am currently serving in <strong>the Republic of Korea NAVY</strong> as an Information Systems Technician. This period has provided an opportunity to reflect carefully on my long-term goals and clarify the kind of researcher I aim to become as I prepare for the next stage of my academic path.
 
 ## Education
 
