@@ -78,7 +78,7 @@
   </style>
 </head>
 <body>
-<header><div class="wrap nav"><a class="brand" href="#home" id="brand-home">MW<span>.</span></a><nav class="links" id="navlinks" aria-label="Main navigation"><a href="#home" data-page="home" class="active">Home</a><a href="#portfolio" data-page="portfolio">Research Portfolio</a><a href="#contact" data-page="contact">Contact</a></nav><button class="menu" id="menu" aria-label="메뉴 열기">☰</button></div></header>
+<header><div class="wrap nav"><a class="brand" href="#home" id="brand-home">MW<span>.</span></a><nav class="links" id="navlinks" aria-label="Main navigation"><a href="#home" data-page="home" class="active">Home</a><a href="#portfolio" data-page="portfolio">Research Portfolio</a></nav><button class="menu" id="menu" aria-label="메뉴 열기">☰</button></div></header>
 <main class="wrap"><article id="content" class="markdown loading">내용을 불러오는 중입니다…</article></main>
 <footer class="wrap"><span>© <span id="year"></span> <span id="footer-name"></span></span></footer>
 <script>
@@ -86,7 +86,6 @@ const $=(s,root=document)=>root.querySelector(s);
 const sectionPage={
   'About':'home','Education':'home','Scholarship':'home','Research Experience':'home', 'Academic Activities & Presentations':'home','Leadership':'home','Work Experience':'home',
   'Presentations':'portfolio','Projects':'portfolio',
-  'Contact':'contact'
 };
 function showPage(page,updateHash=true){
   document.querySelectorAll('.page-content').forEach(el=>el.hidden=el.dataset.page!==page);
@@ -174,11 +173,9 @@ async function loadContent(){
     photoColumn.append(photo);
     summary.appendChild(nav);
   }
-  const title=main.querySelector('h1');
-  const name=title?title.textContent.trim():'mwwang';
   document.title='mwwang | Portfolio';
-  $('#footer-name').textContent=name;
-  const pages={home:document.createElement('section'),portfolio:document.createElement('section'),contact:document.createElement('section')};
+  $('#footer-name').textContent='mwwang';
+  const pages={home:document.createElement('section'),portfolio:document.createElement('section')};
   Object.entries(pages).forEach(([key,el])=>{el.className='page-content';el.dataset.page=key;el.hidden=key!=='home';});
   let current='home';
   [...main.childNodes].forEach(node=>{
