@@ -227,9 +227,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
 
 
 
-## Publications
-
-No peer-reviewed publications have been listed yet.
+## Research Portfolio
 
 ## Presentations
 
