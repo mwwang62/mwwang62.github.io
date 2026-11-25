@@ -181,7 +181,7 @@ async function loadContent(){
   let current='home';
   [...main.childNodes].forEach(node=>{
     if(node.nodeType===1 && node.tagName==='H2'){
-      const headingText=node.textContent.trim();
+      const headingText=node.textContent.replace(/\s*View\s*$/,'').trim();
       current=sectionPage[headingText]||'etc';
     }
     pages[current].appendChild(node);
