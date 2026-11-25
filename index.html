@@ -75,7 +75,7 @@ const $=(s,root=document)=>root.querySelector(s);
 const sectionPage={
   'About':'home','Education':'home','Scholarship':'home','Research Experience':'home', 'Academic Activities & Presentations':'home','Leadership':'home','Work Experience':'home',
   'Publications':'publication','Presentations':'publication','Photos':'photos',
-  'Projects':'etc','Files':'etc','Contact':'etc'
+  'Projects':'publication','Files':'etc','Contact':'etc'
 };
 function showPage(page,updateHash=true){
   document.querySelectorAll('.page-content').forEach(el=>el.hidden=el.dataset.page!==page);
