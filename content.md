@@ -227,7 +227,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
 
 
 
-## Research Portfolio
+## Portfolio
 
 ## Presentations
 
