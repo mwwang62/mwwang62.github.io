@@ -252,19 +252,19 @@ Simulated electron transport through a gating Gas Electron Multiplier (GEM) for 
 
 **Tools:** Garfield++, Python, Linux (Ubuntu)
 
-### Binary Data Processing and 16-Channel Time Calibration | SUBMET
+<h3 class="project-entry-title">Binary Data Processing and 16-Channel Time Calibration | SUBMET</h3>
 
 Developed Python tools to process experimental binary data by extracting header information, organizing event data into a structured format, and saving it as ROOT TTrees. Also developed a time-calibration tool to correct timing differences among 16 parallel readout channels.
 
 **Tools:** Python, ROOT
 
-### FPGA-Based Data Acquisition Logic | UFFO/UBAT
+<h3 class="project-entry-title">FPGA-Based Data Acquisition Logic | UFFO/UBAT</h3>
 
 Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO), focusing on distinguishing genuine photon hits from MAPMT crosstalk. Evaluated the trigger and readout logic through behavioral simulations and FPGA hardware tests, including experimental measurements using a radioactive source.
 
 **Tools:** FPGA
 
-### CMS Resistive Plate Chamber Fabrication
+<h3 class="project-entry-title">CMS Resistive Plate Chamber Fabrication</h3>
 
 Participated in the fabrication of Resistive Plate Chambers (RPCs) for the CMS detector at CERN. The chambers were prepared for delivery to Europe.
 
