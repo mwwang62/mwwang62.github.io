@@ -217,6 +217,33 @@ async function loadContent(){
     const trigger=event.target.closest('[data-gallery="academic"]');
     if(trigger){event.preventDefault();gallery.classList.add('open');}
   });
+  const workGallery=document.createElement('div');
+  workGallery.className='photo-modal';
+  workGallery.id='work-photo-modal';
+  workGallery.setAttribute('role','dialog');
+  workGallery.setAttribute('aria-modal','true');
+  workGallery.setAttribute('aria-label','Work experience photos');
+  workGallery.innerHTML='<div class="photo-modal-panel"><button class="photo-modal-close" type="button" aria-label="Close photo gallery">×</button><div class="photo-gallery"></div></div>';
+  const workGalleryItems=[
+    ['assets/photos/lumino-dining.jpeg','Junior Sommelier at Lumino Dining Bar · December 2024–March 2026'],
+    ['assets/photos/wine-route-brightened.jpeg','Wine Tasting & B2B Sales Associate at Wine Route · September 2024–May 2025']
+  ];
+  const workGalleryGrid=workGallery.querySelector('.photo-gallery');
+  workGalleryItems.forEach(([src,caption])=>{
+    const figure=document.createElement('figure');
+    const img=document.createElement('img');img.src=src;img.alt=caption;img.loading='lazy';
+    const figcaption=document.createElement('figcaption');figcaption.textContent=caption;
+    figure.append(img,figcaption);workGalleryGrid.appendChild(figure);
+  });
+  document.body.appendChild(workGallery);
+  const closeWorkGallery=()=>workGallery.classList.remove('open');
+  workGallery.querySelector('.photo-modal-close').addEventListener('click',closeWorkGallery);
+  workGallery.addEventListener('click',event=>{if(event.target===workGallery)closeWorkGallery();});
+  document.addEventListener('keydown',event=>{if(event.key==='Escape')closeWorkGallery();});
+  document.addEventListener('click',event=>{
+    const trigger=event.target.closest('[data-gallery="work"]');
+    if(trigger){event.preventDefault();workGallery.classList.add('open');}
+  });
   const initial=location.hash.replace('#','');
   showPage(pages[initial]?initial:'home',false);
  }catch(error){
