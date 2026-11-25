@@ -285,6 +285,3 @@ For academic inquiries, research opportunities, or further information, please f
 
 Based in **South Korea**.
 
----
-
-*This portfolio summarizes the academic and research experience documented in my career certificate. Personal identification details, including date of birth and residential address, are intentionally not published.*
