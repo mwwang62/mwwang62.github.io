@@ -191,7 +191,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
   </div>
 </div>
 
-## Work Experience
+## Work Experience <a href="#" class="section-view" data-gallery="work">View</a>
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
