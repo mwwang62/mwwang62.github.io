@@ -110,7 +110,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
   </div>
 </div>
 
-## Academic Activities & Presentations
+## Academic Activities & Presentations <a href="#" class="section-view" data-gallery="academic">View</a>
 
 <div class="bio-timeline">
   <div class="bio-timeline-item">
@@ -276,13 +276,6 @@ Participated in the fabrication of Resistive Plate Chambers (RPCs) for the CMS d
 
 **Focus:** Detector fabrication
 
-## Photos
-
-This section is reserved for research, conference, laboratory, and profile photos.
-
-To add a photo later, upload the image to the repository (for example, into an `assets/photos/` folder) and add it here using Markdown:
-
-`![Description of photo](assets/photos/your-photo.jpg)`
 
 ## Files
 
