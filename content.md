@@ -227,26 +227,6 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
 
 
 
-## Projects
-
-### Garfield++ Simulation of Electron Transmission Through a Gating GEM
-
-Simulated electron transmission through a gating Gas Electron Multiplier (GEM) using Garfield++ in an Ubuntu Linux environment. Developed Python analysis code to calculate transmission rates and errors, and to visualize the relationship between transmission rate and the voltage difference across the GEM.
-
-**Tools:** Garfield++, Python, Ubuntu Linux, Data Visualization
-
-### C3+ Ion Beam Trajectory Optimization with Geant4
-
-Worked on a simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam using Geant4 in a Linux-based Ubuntu environment.
-
-**Tools:** Geant4, Linux, Ubuntu
-
-### Binary Data Processing and 16-Channel Time Calibration
-
-Built Python tools for experimental data processing: extracted header information from binary files, organized it into a tree structure, exported the result to ROOT files, and developed a time-calibration workflow to correct timing offsets across 16 parallel channels.
-
-**Tools:** Python, ROOT, Binary Data Processing, Time Calibration
-
 ## Publications
 
 No peer-reviewed publications have been listed yet.
@@ -265,6 +245,38 @@ Poster presentation · P1-nu.013
 **“DAQ of UBAT”**  
 Oral presentation
 <p><a href="https://cds.kuhep.kreonet.net:7443/event/2/contributions/" target="_blank" rel="noopener noreferrer">Official seminar page</a> · <a href="https://drive.google.com/file/d/166EyxIZiyNh6S1UmLhUCC0YACVorfhqM/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation slides<svg class="drive-icon" aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14" style="display:inline-block;vertical-align:-2px;margin-left:4px"><path fill="#00832d" d="M7.2 2.5h5.1L5.1 14.9H0z"/><path fill="#0066da" d="M7.2 2.5h5.1l7.2 12.4h-5.1z"/><path fill="#ffba00" d="M0 14.9h14.4l-2.6 4.6H2.6z"/><path fill="#2684fc" d="M14.4 14.9h5.1l-2.6 4.6h-5.1z"/><path fill="#ea4335" d="M17 19.5h-5.2l2.6-4.6h5.1z"/></svg></a></p>
+
+## Projects
+
+### Garfield++ Simulation of Electron Transmission Through a Gating GEM | COREA
+
+Simulated electron transport through a gating Gas Electron Multiplier (GEM) for the COREA active-target TPC using <strong>Garfield++</strong>. Analyzed electron transmission across GEM bias voltages and developed Python scripts to calculate transmission rates and uncertainties and plot the relationship between transmission rate and the voltage difference across the GEM. The work was presented as a poster at the 2024 Korean Physical Society Fall Meeting.
+
+**Tools:** Garfield++, Python, Linux (Ubuntu)
+
+### Binary Data Processing and 16-Channel Time Calibration | SUBMET
+
+Developed Python tools to process experimental binary data by extracting header information, organizing event data into a structured format, and saving it as ROOT TTrees. Also developed a time-calibration tool to correct timing differences among 16 parallel readout channels.
+
+**Tools:** Python, ROOT, Linux, Binary Data Processing, Time Calibration
+
+### FPGA-Based Data Acquisition Logic | UFFO/UBAT
+
+Developed FPGA-based DAQ logic for the UBAT instrument of the Ultra-Fast Flash Observatory (UFFO), focusing on distinguishing genuine photon hits from MAPMT crosstalk. Evaluated the trigger and readout logic through behavioral simulations and FPGA hardware tests, including experimental measurements using a radioactive source.
+
+**Tools:** FPGA, DAQ Logic, Behavioral Simulation, Hardware Testing
+
+### CMS Resistive Plate Chamber Fabrication
+
+Participated in the fabrication of Resistive Plate Chambers (RPCs) for the CMS detector at CERN. The chambers were prepared for delivery to Europe.
+
+**Focus:** Detector fabrication, RPCs
+
+### C3+ Ion Beam Trajectory Optimization | Geant4
+
+Worked on a Geant4-based simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam in a Linux/Ubuntu environment.
+
+**Tools:** Geant4, Linux (Ubuntu)
 
 ## Photos
 
