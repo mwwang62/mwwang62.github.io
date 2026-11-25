@@ -277,19 +277,13 @@ Participated in the fabrication of Resistive Plate Chambers (RPCs) for the CMS d
 **Focus:** Detector fabrication
 
 
-## Files
-
-This section is reserved for documents and downloadable materials, such as a CV, research poster, publications, or project reports.
-
-To add a file later, upload it to the repository (for example, into an `assets/files/` folder) and add a link here:
-
-`[Download document](assets/files/your-document.pdf)`
-
 ## Contact
 
-Based in **South Korea**.
+For academic inquiries, research opportunities, or further information, please feel free to contact me.
 
-Contact details and professional links will be added here.
+**Email:** [wmw0602@korea.ac.kr](mailto:wmw0602@korea.ac.kr)
+
+Based in **South Korea**.
 
 ---
 
