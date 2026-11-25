@@ -272,12 +272,6 @@ Participated in the fabrication of Resistive Plate Chambers (RPCs) for the CMS d
 
 **Focus:** Detector fabrication, RPCs
 
-### C3+ Ion Beam Trajectory Optimization | Geant4
-
-Worked on a Geant4-based simulation to optimize the trajectory of a C3+ (triply charged carbon) ion beam in a Linux/Ubuntu environment.
-
-**Tools:** Geant4, Linux (Ubuntu)
-
 ## Photos
 
 This section is reserved for research, conference, laboratory, and profile photos.
