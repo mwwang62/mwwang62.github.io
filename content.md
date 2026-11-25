@@ -12,7 +12,7 @@
 
 ## About
 
-I am an undergraduate student at Korea University, majoring in <strong>Physics</strong> and double-majoring in <strong>Electrical Engineering</strong>. My current academic focus is <strong>condensed matter physics</strong>, and I am <strong>preparing to pursue graduate study in the United States</strong>.
+I am an undergraduate student at Korea University, majoring in <strong>Physics</strong> and double-majoring in <strong>Electrical Engineering</strong>. My current academic focus is <strong>condensed matter physics</strong>, and I am preparing to pursue graduate study in the United States.
 
 Throughout my undergraduate years, I have sought to broaden my perspective by engaging with unfamiliar subjects and taking on new intellectual challenges. Alongside my academic training, experiences in student government and the hospitality industry have strengthened my ability to communicate effectively, collaborate across teams, and carry out responsibilities reliably.
 
