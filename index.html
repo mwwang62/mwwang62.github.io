@@ -244,6 +244,36 @@ async function loadContent(){
     const trigger=event.target.closest('[data-gallery="work"]');
     if(trigger){event.preventDefault();workGallery.classList.add('open');}
   });
+  const leadershipGallery=document.createElement('div');
+  leadershipGallery.className='photo-modal';
+  leadershipGallery.id='leadership-photo-modal';
+  leadershipGallery.setAttribute('role','dialog');
+  leadershipGallery.setAttribute('aria-modal','true');
+  leadershipGallery.setAttribute('aria-label','Leadership photos');
+  leadershipGallery.innerHTML='<div class="photo-modal-panel"><button class="photo-modal-close" type="button" aria-label="Close photo gallery">×</button><div class="photo-gallery"></div></div>';
+  const leadershipGalleryItems=[
+    ['assets/photos/wine-president.jpeg','KU Sommelier · President · September 2022–February 2023'],
+    ['assets/photos/sci-vicepresident.jpeg','55th College of Science Student Council · Vice President · November 2023–December 2024'],
+    ['assets/photos/sci-president.jpeg','56th College of Science Student Council · President · March–December 2025'],
+    ['assets/photos/chair-1.jpeg','Interim Student Government Association · Chair · December 2025–April 2026'],
+    ['assets/photos/chair-2.jpeg','Interim Student Government Association · Chair · December 2025–April 2026']
+  ];
+  const leadershipGalleryGrid=leadershipGallery.querySelector('.photo-gallery');
+  leadershipGalleryItems.forEach(([src,caption])=>{
+    const figure=document.createElement('figure');
+    const img=document.createElement('img');img.src=src;img.alt=caption;img.loading='lazy';
+    const figcaption=document.createElement('figcaption');figcaption.textContent=caption;
+    figure.append(img,figcaption);leadershipGalleryGrid.appendChild(figure);
+  });
+  document.body.appendChild(leadershipGallery);
+  const closeLeadershipGallery=()=>leadershipGallery.classList.remove('open');
+  leadershipGallery.querySelector('.photo-modal-close').addEventListener('click',closeLeadershipGallery);
+  leadershipGallery.addEventListener('click',event=>{if(event.target===leadershipGallery)closeLeadershipGallery();});
+  document.addEventListener('keydown',event=>{if(event.key==='Escape')closeLeadershipGallery();});
+  document.addEventListener('click',event=>{
+    const trigger=event.target.closest('[data-gallery="leadership"]');
+    if(trigger){event.preventDefault();leadershipGallery.classList.add('open');}
+  });
   const initial=location.hash.replace('#','');
   showPage(pages[initial]?initial:'home',false);
  }catch(error){
