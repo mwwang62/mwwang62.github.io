@@ -102,7 +102,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
     <div class="bio-date">Mar. 2023 — Jul. 2023</div>
     <div class="bio-content">
       <h3>Korea Detector Laboratory (KODEL), Korea University</h3>
-      <p><strong>Undergraduate Researcher</strong> (Adviser: Dr. Kyongsei Lee)</p>
+      <p><strong>Intern</strong> (Adviser: Dr. Kyongsei Lee)</p>
       <ul class="scholarship-points">
         <li>Participated in the fabrication of <strong>Resistive Plate Chambers (RPCs)</strong> for the CMS detector at CERN, which were prepared for delivery to Europe.</li>
       </ul>
