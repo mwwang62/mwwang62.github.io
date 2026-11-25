@@ -74,8 +74,8 @@
 const $=(s,root=document)=>root.querySelector(s);
 const sectionPage={
   'About':'home','Education':'home','Scholarship':'home','Research Experience':'home', 'Academic Activities & Presentations':'home','Leadership':'home','Work Experience':'home',
-  'Publications':'publication','Presentations':'publication','Photos':'photos',
-  'Projects':'publication','Files':'etc','Contact':'etc'
+  'Presentations':'portfolio','Projects':'portfolio',
+  'Photos':'photos','Files':'etc','Contact':'etc'
 };
 function showPage(page,updateHash=true){
   document.querySelectorAll('.page-content').forEach(el=>el.hidden=el.dataset.page!==page);
@@ -167,7 +167,7 @@ async function loadContent(){
   const name=title?title.textContent.trim():'Portfolio';
   document.title='mwwang | Portfolio';
   $('#footer-name').textContent=name;
-  const pages={home:document.createElement('section'),publication:document.createElement('section'),photos:document.createElement('section'),etc:document.createElement('section')};
+  const pages={home:document.createElement('section'),portfolio:document.createElement('section'),photos:document.createElement('section'),etc:document.createElement('section')};
   Object.entries(pages).forEach(([key,el])=>{el.className='page-content';el.dataset.page=key;el.hidden=key!=='home';});
   let current='home';
   [...main.childNodes].forEach(node=>{
@@ -192,7 +192,7 @@ $('#navlinks').addEventListener('click',event=>{
   if(link){event.preventDefault();showPage(link.dataset.page);}
 });
 $('#brand-home').addEventListener('click',event=>{event.preventDefault();showPage('home');});
-window.addEventListener('hashchange',()=>{const page=location.hash.slice(1);if(['home','publication','photos','etc'].includes(page))showPage(page,false);});
+window.addEventListener('hashchange',()=>{const page=location.hash.slice(1);if(['home','portfolio','photos','etc'].includes(page))showPage(page,false);});
 loadContent();
 </script>
 </body></html>
