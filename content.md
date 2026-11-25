@@ -12,11 +12,11 @@
 
 ## About
 
-I am an undergraduate student at Korea University, majoring in **Physics** and double-majoring in **Electrical Engineering**. My academic interests center on experimental particle and nuclear physics, detector instrumentation, and scientific computing.
+I am an undergraduate student at Korea University, majoring in **Physics** and double-majoring in **Electrical Engineering**. My earlier research experiences introduced me to experimental particle and nuclear physics, detector instrumentation, and scientific computing. While these fields shaped my academic foundation, my interests have since shifted toward **condensed matter physics**, which I hope to explore further through graduate study and research.
 
 My research experience spans detector simulation, experimental data analysis, DAQ development, and detector fabrication. I have worked on Garfield++ simulations of a gating GEM for the COREA active-target TPC, Python-based data processing and timing calibration for the SUBMET experiment, and FPGA-based DAQ logic for the UBAT instrument of UFFO. I also participated in the fabrication of RPC detectors for the CMS experiment at CERN. Through these projects, I have developed experience with **Python, ROOT, Garfield++, Geant4, FPGA-based systems, and Linux**.
 
-Beyond research, I have presented my work at the Korean Physical Society Fall Meeting and the KU GRB Observation Group Seminar, and participated in a short-term academic visit to Osaka University's Research Center for Nuclear Physics. I have received merit-based scholarships in recognition of academic performance and served in student government leadership roles, including President of the College of Science Student Council and Chair of the Interim Student Government Association. My work experience in the wine and hospitality industry has also strengthened my communication, teamwork, and client-facing skills. I am currently serving in the Republic of Korea Navy as an Information Systems Technician.
+I am a highly motivated student with a strong desire to keep learning, grow, and challenge myself. I am currently serving in the **Republic of Korea Navy** as an Information Systems Technician. During this period, I have been reflecting on my long-term direction, considering an academic career, and actively seeking advice as I plan my next steps. I am also preparing to pursue **graduate study in the United States**. Beyond academics, my experiences in student government leadership and the wine and hospitality industry have helped me develop communication, teamwork, and organizational skills.
 
 ## Education
 
