@@ -80,7 +80,7 @@
 <body>
 <header><div class="wrap nav"><a class="brand" href="#home" id="brand-home">MW<span>.</span></a><nav class="links" id="navlinks" aria-label="Main navigation"><a href="#home" data-page="home" class="active">Home</a><a href="#portfolio" data-page="portfolio">Research Portfolio</a><a href="#contact" data-page="contact">Contact</a></nav><button class="menu" id="menu" aria-label="메뉴 열기">☰</button></div></header>
 <main class="wrap"><article id="content" class="markdown loading">내용을 불러오는 중입니다…</article></main>
-<footer class="wrap"><span>© <span id="year"></span> <span id="footer-name"></span></span><span>이 홈페이지의 내용은 content.md에서 수정할 수 있습니다.</span></footer>
+<footer class="wrap"><span>© <span id="year"></span> <span id="footer-name"></span></span></footer>
 <script>
 const $=(s,root=document)=>root.querySelector(s);
 const sectionPage={
@@ -175,7 +175,7 @@ async function loadContent(){
     summary.appendChild(nav);
   }
   const title=main.querySelector('h1');
-  const name=title?title.textContent.trim():'Portfolio';
+  const name=title?title.textContent.trim():'mwwang';
   document.title='mwwang | Portfolio';
   $('#footer-name').textContent=name;
   const pages={home:document.createElement('section'),portfolio:document.createElement('section'),contact:document.createElement('section')};
