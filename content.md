@@ -244,7 +244,7 @@ Oral presentation
 
 ## Projects
 
-<h3 class="project-entry-title">Garfield++ Simulation of Electron Transmission Through a Gating GEM | COREA</h3>
+### Garfield++ Simulation of Electron Transmission Through a Gating GEM | COREA
 
 Simulated electron transport through a gating Gas Electron Multiplier (GEM) for the COREA active-target TPC using <strong>Garfield++</strong>. Analyzed electron transmission across GEM bias voltages and developed Python scripts to calculate transmission rates and uncertainties and plot the relationship between transmission rate and the voltage difference across the GEM. The work was presented as a poster at the 2024 Korean Physical Society Fall Meeting.
 
