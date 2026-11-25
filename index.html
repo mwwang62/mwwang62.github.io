@@ -252,11 +252,11 @@ async function loadContent(){
   leadershipGallery.setAttribute('aria-label','Leadership photos');
   leadershipGallery.innerHTML='<div class="photo-modal-panel"><button class="photo-modal-close" type="button" aria-label="Close photo gallery">×</button><div class="photo-gallery"></div></div>';
   const leadershipGalleryItems=[
-    ['assets/photos/wine-president.jpeg','KU Sommelier · President · September 2022–February 2023'],
-    ['assets/photos/sci-vicepresident.jpeg','55th College of Science Student Council · Vice President · November 2023–December 2024'],
-    ['assets/photos/sci-president.jpeg','56th College of Science Student Council · President · March–December 2025'],
-    ['assets/photos/chair-1.jpeg','Interim Student Government Association · Chair · December 2025–April 2026'],
-    ['assets/photos/chair-2.jpeg','Interim Student Government Association · Chair · December 2025–April 2026']
+    ['assets/photos/wine-president.jpeg','KU Sommelier · President'],
+    ['assets/photos/sci-vicepresident.jpeg','55th College of Science Student Council · Vice President'],
+    ['assets/photos/sci-president.jpeg','56th College of Science Student Council · President'],
+    ['assets/photos/chair-1.jpeg','Interim Student Government Association · Chair'],
+    ['assets/photos/chair-2.jpeg','Interim Student Government Association · Chair']
   ];
   const leadershipGalleryGrid=leadershipGallery.querySelector('.photo-gallery');
   leadershipGalleryItems.forEach(([src,caption])=>{
