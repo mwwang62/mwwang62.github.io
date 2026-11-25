@@ -231,7 +231,7 @@ I am currently serving <strong>in the Republic of Korea NAVY</strong> as an Info
 
 ## Presentations
 
-### October 23, 2024 | Korean Physical Society Fall Meeting
+### October 23, 2024 | Korean Physical Society (KPS) Fall Meeting
 
 **“Garfield simulation on a gating GEM operation for COREA”**  
 Poster presentation · P1-nu.013
