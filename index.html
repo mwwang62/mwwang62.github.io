@@ -85,7 +85,7 @@
 const $=(s,root=document)=>root.querySelector(s);
 const sectionPage={
   'About':'home','Education':'home','Scholarship':'home','Research Experience':'home', 'Academic Activities & Presentations':'home','Leadership':'home','Work Experience':'home',
-  'Presentations':'portfolio','Projects':'portfolio',
+  'Portfolio':'portfolio','Presentations':'portfolio','Projects':'portfolio',
 };
 function showPage(page,updateHash=true){
   document.querySelectorAll('.page-content').forEach(el=>el.hidden=el.dataset.page!==page);
@@ -181,7 +181,7 @@ async function loadContent(){
   [...main.childNodes].forEach(node=>{
     if(node.nodeType===1 && node.tagName==='H2'){
       const headingText=node.textContent.replace(/\s*View\s*$/,'').trim();
-      current=sectionPage[headingText]||'contact';
+      current=sectionPage[headingText]||'home';
     }
     pages[current].appendChild(node);
   });
@@ -285,7 +285,7 @@ $('#navlinks').addEventListener('click',event=>{
   if(link){event.preventDefault();showPage(link.dataset.page);}
 });
 $('#brand-home').addEventListener('click',event=>{event.preventDefault();showPage('home');});
-window.addEventListener('hashchange',()=>{const page=location.hash.slice(1);if(['home','portfolio','contact'].includes(page))showPage(page,false);});
+window.addEventListener('hashchange',()=>{const page=location.hash.slice(1);if(['home','portfolio'].includes(page))showPage(page,false);});
 loadContent();
 </script>
 </body></html>
