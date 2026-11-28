@@ -6,6 +6,7 @@
   <h2>Minwoo Wang</h2>
   <p>Undergraduate student at Korea University.<br>
      Major in Physics & Double major in Electrical Engineering.<br>
+    GPA: 4.26/4.50 (Major: 4.42/4.50 | Credit: 107/130)
 </div>
 
 
